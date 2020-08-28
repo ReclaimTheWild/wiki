@@ -244,7 +244,7 @@ Spacing values are based on a `1rem = 16px` spacing scale, broken down into thes
 Use `mx-auto` to horizontally center elements.
 
 #### Responsive modifiers
-{: .no-toc }
+{: .no_toc }
 
 If you want to have different display between different screen sizes, you can put this size modifiers inbetween prefix & suffix/spacer classes.
 
