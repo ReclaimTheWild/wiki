@@ -337,7 +337,7 @@ You're used to it by now...
   </summary>
 
 #### Font size
-{: .no-toc }
+{: .no_toc }
 
 Use the `.fs-1` - `.fs-10` to set an explicit font-size.
 
@@ -402,7 +402,7 @@ Font size 10
 ```
 
 #### Font weight
-{: .no-toc }
+{: .no_toc }
 
 Use the `.fw-300` - `.fw-700` to set an explicit font-size.
 
@@ -430,7 +430,7 @@ Font weight 700
 ```
 
 #### Line height
-{: .no-toc }
+{: .no_toc }
 
 Use the `lh-` classes to explicitly apply line height to text.
 
@@ -471,7 +471,7 @@ Default line height
 ```
 
 #### Text justification
-{: .no-toc }
+{: .no_toc }
 
 By default text is justified left. Use these `text-` classes to override settings:
 
