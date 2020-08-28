@@ -515,31 +515,31 @@ parent: Enchantments
 ### Article page
 
 <details markdown="block">
-    <summary>
-        EXPAND !
-    </summary>
+  <summary>
+  EXPAND !
+  </summary>
 
-    Stuff goes here.
+Stuff goes here.
 </details>
 
 ### User Profile page
 
 <details markdown="block">
-    <summary>
-        EXPAND !
-    </summary>
+  <summary>
+  EXPAND !
+  </summary>
 
-    Stuff goes here.
+Stuff goes here.
 </details>
 
 ### Subcategory Page
 
 <details markdown="block">
-    <summary>
-        EXPAND !
-    </summary>
+  <summary>
+  EXPAND !
+  </summary>
 
-    Stuff goes here.
+Stuff goes here.
 </details>
 
 *[GFM]: GitHub-Flavored Markdown
