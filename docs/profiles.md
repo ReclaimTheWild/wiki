@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Profiles
+title: User Profiles
 permalink: /profiles
 nav_order: 98
 has_children: true

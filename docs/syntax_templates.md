@@ -512,6 +512,34 @@ parent: Enchantments
 
 ## Templates
 
-If you wish to submit a new page to the wiki, you'll need your own GitHub account.
+### Article page
+
+<details markdown="block">
+    <summary>
+        EXPAND !
+    </summary>
+
+    Stuff goes here.
+</details>
+
+### User Profile page
+
+<details markdown="block">
+    <summary>
+        EXPAND !
+    </summary>
+
+    Stuff goes here.
+</details>
+
+### Subcategory Page
+
+<details markdown="block">
+    <summary>
+        EXPAND !
+    </summary>
+
+    Stuff goes here.
+</details>
 
 *[GFM]: GitHub-Flavored Markdown
