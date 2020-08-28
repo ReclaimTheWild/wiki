@@ -453,6 +453,7 @@ Default line height
 Default line height
 {: .fh-default }
 </div>
+
 ```markdown
 In Markdown, use the `{: }` wrapper to apply custom classes:
 
@@ -484,7 +485,30 @@ By default text is justified left. Use these `text-` classes to override setting
 
 ## Page information and parameters
 
-Blep Bloop
+On top of it, your page can have several parameters. Here's an example with the Silvered Enchantment :
+
+```
+---
+layout: default
+title: Silvered
+summary: As seen in the Master Sword, this Enchantment is truly Evil's Bane. 
+permalink: /enchantments/silvered
+parent: Enchantments
+---
+```
+
+* The "layout" property should always use the default parameter.
+{: lh-tight}
+* The "title" is the title of your page, it will be used in the navigation, and in the user's browser (The tab will be called `title - RtW's Wiki`).
+{: lh-tight}
+* The "summary" property is used by the parent of your page. The parent will automatically generate a table of content of its children, using the title property. If the summary property is mentionned, the entry will be written as `title - summary`. If it's not, it will only be written as `title`.
+{: lh-tight}
+* The "permalink" property allows you to customize the URL of your page. It is, in fact, automatically generated, but you can tinker it further through this property. This can be useful to remove the ".html" at the end of the url, for example. If it is not mentionned, the permalink will be the path of the file, with the same name as your file at the end, but ended by .html instead of .md. You should try, whenever possible, to include this property.
+{: lh-tight}
+* The "parent" property is used to indicate the title of the parent of the page. It can be omitted for orphan pages, but most of your content should be the children of one of the category pages. The current parents available are :
+    - Enchantments
+* You can add a cool "last_modified_date" property if you want to display the last date this file was modified (Which you should !). The format is the following: `last_modified_date: 2020-04-27T17:54:08+0000` where the second half is a ISO 8601 formatted UNIX Timestamp. You can easily generate one from [this website](https://timestampgenerator.com/).
+* If you need it for any reason, you can include a `nav_exclude: true` property to make your page *NOT* appear in the navigation menu.
 
 ## Templates
 
