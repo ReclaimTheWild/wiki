@@ -106,7 +106,7 @@ Those are a bit special as you need to use HTML in order to make them work, but 
 
 That one is a bit longer than the others, so it's been rightfully collapsed !
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
   UNWRAP ME !
   </summary>
@@ -200,7 +200,7 @@ I'm an ugly text.
 
 The same applies to this spacing section. This usually won't be useful to the normal user.
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
   UNWRAP ME !
   </summary>
@@ -331,7 +331,7 @@ These headings will be `inline-block`:
 
 You're used to it by now...
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
   UNWRAP ME !
   </summary>
