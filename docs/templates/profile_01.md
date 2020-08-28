@@ -32,6 +32,10 @@ parent: User Profiles
 
 \[The contributions of the user. They're free to organize them of they see fit with headlines and stuff. The following is only an example]
 
+*Users can totally choose to link to external documents there if they want to, but it would be cool to integrate it to the Wiki to add the global Search function to it !*
+{: .text-purple-000}
+
+
 ### My Extension
 
 * **[Awesome race](https://www.google.com)**: somethingsomethinh
