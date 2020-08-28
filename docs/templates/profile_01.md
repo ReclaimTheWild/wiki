@@ -50,7 +50,7 @@ parent: User Profiles
 
 ### Things I contributed to
 
-* **[Test](enchantments/silvered)**: somethingsomethinh w/ NotMeï
+* **[Test](../enchantments/silvered)**: somethingsomethinh w/ NotMeï
 
 ## Media
 
