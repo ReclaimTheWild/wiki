@@ -3,7 +3,7 @@ layout: default
 title: Profiles
 permalink: /profiles
 nav_order: 98
-nav_exclude: true
+has_children: true
 ---
 
 # Users profiles
