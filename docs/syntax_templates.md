@@ -14,12 +14,9 @@ nav_exclude: true
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 - TOC
 {:toc}
+</details>
 
 ## Submitting a new page
 
