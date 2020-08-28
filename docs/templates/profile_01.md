@@ -6,6 +6,9 @@ permalink: /profiles/candidate_01
 parent: User Profiles
 ---
 
+<img width="150" height="150" src="../assets/images/user_pics/mei.png"/>
+{: .float-right }
+
 # Profile of \[Name]
 {: .no_toc }
 
@@ -20,9 +23,6 @@ parent: User Profiles
 - TOC
 {:toc}
 </details>
-
-<img width="150" height="150" src="../assets/images/user_pics/mei.png"/>
-{: .float-right }
 
 ## Summary
 
