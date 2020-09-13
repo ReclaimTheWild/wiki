@@ -519,10 +519,10 @@ contributors:
 {: lh-tight}
 * The "parent" property is used to indicate the title of the parent of the page. It can be omitted for orphan pages, but most of your content should be the children of one of the category pages. The current parents available are :
     - Enchantments
-    - Enemies
+    - Creatures
     - Feats
     - Items
-    - Misc
+    - Misc.
     - Races
     - Rules
     - Songs

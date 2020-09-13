@@ -3,7 +3,7 @@ layout: default
 title: Drama Cards
 summary: A new component to add some twists to your game.
 permalink: /misc/drama_cards
-parent: Misc
+parent: Misc.
 tags:
     - misc
 contributors:
