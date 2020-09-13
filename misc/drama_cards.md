@@ -59,7 +59,7 @@ Code | Name | Subtype | Description
 C01|Vigor|Drama - Recovery|Use this card when you would suffer a Critical Hit, and before a Reaction. Treat it as a Normal Hit instead.
 C02|Unity|Drama - Defense|Until the end of the encounter, anytime you or your allies are adjacent to another ally, apply a +(2 x [number of adjacent allies]) bonus to your Evasion, Vitality or Concentration.
 C03|Think Fast|Drama - Combat|Use this card at the beginning of a battle. Add a +3 bonus to your Initiative roll.
-C04|Technical Difficulties|Drama - Combat|Choose an enemy with a Rank 2 or lower weapon. The weapon that enemy is using is now broken.
+C04|Technical Difficulties|Drama - Combat|Choose an enemy with a Rank 2 or lower weapon. The weapon that enemy is using is now broken. This enemy may able to user another, weaker, weapon at GM's discretion
 C05|Bottomless Quiver|Drama - Subplot|Use this card if you have just run out of normal arrows. Turns out you had or find ten more immediately.
 C06|Sure Step|Drama - Movement|You may ignore Difficult Terrain until the start of your next turn.
 C07|The Weight of Command|Drama - Assist, Recovery|You may reduce your health points by up to 10; restore an equal number of health points to an adjacent ally. You may split this healing along multiple allies.
