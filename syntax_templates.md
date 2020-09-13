@@ -530,9 +530,9 @@ contributors:
 {: lh-tight}
 * You can add a cool "last_modified_date" property if you want to display the last date this file was modified (Which you should !). The format is the following: `last_modified_date: 2020-04-27T17:54:08+0000` where the second half is a ISO 8601 formatted UNIX Timestamp. You can easily generate one from [this website](https://timestampgenerator.com/).
 {: lh-tight}
-* You can add tags to your page ! Tags are defined on the [tags page]({{ /tag/ | absolute_url }}), and new ones can be added when necessary.
+* You can add tags to your page ! Tags are defined on the [tags page]({{ "/tag/" | absolute_url }}), and new ones can be added when necessary.
 {: lh-tight}
-* The same can be done with contributors. Contributors can be seen on the [contributors page]({{ /contributor | absolute_url }}), but they're not set exactly the same : Contributors are set through an id, also called a slug. On a general basis, the id is a lowercase-version of the user's name, without whitespaces and special characters. For example, "Meï" becomes `mei` and "Elemental Knight" becomes `elementalknight`. In doubt, you can always refer to [contributors.yml](https://github.com/ReclaimTheWild/wiki/blob/master/_data/contributors.yml) file from the wiki's GitHub repository.
+* The same can be done with contributors. Contributors can be seen on the [contributors page]({{ "/contributor/" | absolute_url }}), but they're not set exactly the same : Contributors are set through an id, also called a slug. On a general basis, the id is a lowercase-version of the user's name, without whitespaces and special characters. For example, "Meï" becomes `mei` and "Elemental Knight" becomes `elementalknight`. In doubt, you can always refer to [contributors.yml](https://github.com/ReclaimTheWild/wiki/blob/master/_data/contributors.yml) file from the wiki's GitHub repository.
 {: lh-tight}
 * If you need it for any reason, you can include a `nav_exclude: true` property to make your page *NOT* appear in the navigation menu.
 
