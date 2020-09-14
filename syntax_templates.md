@@ -536,6 +536,40 @@ contributors:
 {: lh-tight}
 * If you need it for any reason, you can include a `nav_exclude: true` property to make your page *NOT* appear in the navigation menu.
 
+## Additionnal elements
+
+When working on your page, you may want to add some images or special designs and interactions. Here's a list of what's available on the wiki !
+
+### Images
+
+In addition to the natural syntax to add a Markdown image, the Wiki also supports floating images on the left, right and center. The left & right ones even have the added bonus that text can be on the same "lines".
+
+Syntax:
+
+{% raw %}
+```
+{% include floating/image_center.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+
+{% include floating/image_left.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_right.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+```
+{% endraw %}
+
+Example:
+
+{% include floating/image_center.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+
+{% include floating/image_left.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_right.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+
+They're mainly intended for illustrations, and therefore allow you to add the Artist directly. The include directive can take the following parameters:
+
+* src: Necessary as it is the url of the rendered image
+* artist: Optional, the name of the artist. Will add a "Art by" mention under the image.
+* artist_src: A source to the Artist's social medias. It makes the artist clickable. Won't serve any purpose if artist isn't set.
+* description: Optional, added under the artist mention (if any).
+* custom_width: By default, left/right floating images takes 40% of the article width while centered images takes 70%. With this, you can specify a custom width, such as "100" for a fullwidth image.
+
 ## Templates
 
 ### Article page
