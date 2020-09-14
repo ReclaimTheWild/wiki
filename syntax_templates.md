@@ -580,7 +580,7 @@ You can add a Table of Content to your page using the following include :
 
 It will result in what's available at the top of this page. Please not it will use the title you defined in the *meta* parameters of the page as the main title before the ToC.
 
-The ToC will automatically add your titles (The headers beginning with one or multiple "#") to itself. If, for some reason, you don't want to include a specific title to your ToC, add the {: .no_toc } on the line directly under it.
+The ToC will automatically add your titles (The headers beginning with one or multiple "#") to itself. If, for some reason, you don't want to include a specific title to your ToC, add {: .no_toc } on the line directly under it.
 
 For example :
 
@@ -592,26 +592,8 @@ For example :
 {: .no_toc }
 ```
 
-## Templates
+### Requesting a Template
 
-### Article page
-
-<details markdown="block">
-  <summary>
-  EXPAND !
-  </summary>
-
-Not yet done
-</details>
-
-### User Profile page
-
-<details markdown="block">
-  <summary>
-  EXPAND !
-  </summary>
-
-Not yet done
-</details>
+If you have an idea for a new and useful include template like the ones explained in the earlier parts, feel free to [open an issue](https://github.com/ReclaimTheWild/wiki/issues/new) so we can discuss it and see what's possible to do.
 
 *[GFM]: GitHub-Flavored Markdown
