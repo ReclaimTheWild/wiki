@@ -562,6 +562,11 @@ Example:
 {% include floating/image_left.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 {% include floating/image_right.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 
+<br>
+<br>
+<br>
+<br>
+
 They're mainly intended for illustrations, and therefore allow you to add the Artist directly. The include directive can take the following parameters:
 
 * src: Necessary as it is the url of the rendered image
