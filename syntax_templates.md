@@ -5,17 +5,7 @@ permalink: /syntax_templates
 nav_exclude: true
 ---
 
-# Syntax & Templates
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
+{% include toc.html %}
 
 ## Syntax
 
@@ -569,6 +559,10 @@ Example Text<br>
 <br>
 <br>
 <br>
+
+### Table of Content
+
+Test
 
 They're mainly intended for illustrations, and therefore allow you to add the Artist directly. The include directive can take the following parameters:
 
