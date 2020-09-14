@@ -560,10 +560,6 @@ Example Text<br>
 <br>
 <br>
 
-### Table of Content
-
-Test
-
 They're mainly intended for illustrations, and therefore allow you to add the Artist directly. The include directive can take the following parameters:
 
 * src: Necessary as it is the url of the rendered image
@@ -571,6 +567,30 @@ They're mainly intended for illustrations, and therefore allow you to add the Ar
 * artist_src: A source to the Artist's social medias. It makes the artist clickable. Won't serve any purpose if artist isn't set.
 * description: Optional, added under the artist mention (if any).
 * custom_width: By default, left/right floating images takes 40% of the article width while centered images takes 70%. With this, you can specify a custom width, such as "100" for a fullwidth image.
+
+### Table of Content
+
+You can add a Table of Content to your page using the following include :
+
+{% raw %}
+```
+{% include toc.html %}
+```
+{% endraw %}
+
+It will result in what's available at the top of this page. Please not it will use the title you defined in the *meta* parameters of the page as the main title before the ToC.
+
+The ToC will automatically add your titles (The headers beginning with one or multiple "#") to itself. If, for some reason, you don't want to include a specific title to your ToC, add the {: .no_toc } on the line directly under it.
+
+For example :
+
+### Title not displayed in the TOC
+{: .no_toc }
+
+```
+### Title not displayed in the TOC
+{: .no_toc }
+```
 
 ## Templates
 
