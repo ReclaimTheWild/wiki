@@ -566,6 +566,9 @@ Example:
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 They're mainly intended for illustrations, and therefore allow you to add the Artist directly. The include directive can take the following parameters:
 
