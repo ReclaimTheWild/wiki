@@ -801,7 +801,7 @@ function generateTableTraits(table, data) {
         cell_immu.classList.add("creature-content-bg-dark");
         cell_immu.classList.add("fs-4");
         cell_immu.colSpan = "6";
-        cell_immu.appendChild(document.createTextNode("Immunity: " + traits.vulnerability));
+        cell_immu.appendChild(document.createTextNode("Immunity: " + traits.immunity));
     }
 
     if (traits.vulnerability || 0 !== traits.vulnerability.length) {
