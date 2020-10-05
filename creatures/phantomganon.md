@@ -19,20 +19,20 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stee
 <table class="creature-table">
   <thead>
     <tr>
-      <th colspan="6" class="fs-6 text-grey-lt-000 creature-title-bg">Volvagia</th>
+      <th colspan="6" class="fs-6 text-grey-lt-000 creature-title-bg">Phantom Ganon</th>
     </tr>
     <tr>
-      <th colspan="6" class="fs-5 text-grey-lt-000 creature-title-bg">Rank 2 Blaster BOSS</th>
+      <th colspan="6" class="fs-5 text-grey-lt-000 creature-title-bg">Rank 2 Arcane Blaster BOSS</th>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">
         <strong>HP</strong>: 200
       </td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">
-        <strong>MP</strong>: 80
+        <strong>MP</strong>: 120
       </td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">
-        <strong>SP</strong>: 80
+        <strong>SP</strong>: 120
       </td>
     </tr>
     <tr>
@@ -40,45 +40,64 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stee
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Concentration: 15</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Initiative: +5</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Evasion: 11</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Initiative: 4</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Evasion: 10</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Size: Huge</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Vitality: 13</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Size: Large</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Vitality: 16</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">Movement: 6 (Walking) 6(Flying) 3(Swimming)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">Movement: 6 (Walking) 3 (Flying)</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">
-        <strong>Hair Sweep</strong>
+        <strong>Sweep</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Damage: 16</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Damage: 14</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">To-Hit Check: +7</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">To-Hit Check: +8</td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Range: Sweep 2</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2" colspan="6"></td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">
-        <strong>FireBall</strong>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
+        <strong>Dead Man's Volley</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Damage: 14</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3" rowspan="2">Damage: 22</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">To-Hit Check: +9</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="3">Range: Projectile 8</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">(Spell)</td>
+    </tr>
+    <tr class="text-grey-dk-300 creature-content-bg-light">
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">10 Mana</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Projectile 8</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2" colspan="6"></td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">When you make this attack, you and your target each select twoTraits from (Accuracy, Agility, Arcana, Athletics, Combat, or Willpower). You and your target both roll 2d6, plus your two chosen Traits. Whoever loses this roll suffers the damage from this attack (which may be reduced by Reactions). The defender may choose to become Distracted by the attacker, Off-Balance, and/or Knocked Prone, for a +2 to their roll, per condition, after they’ve rolled.</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
-        <strong>Koume Fire Blast</strong>
+        <strong>Wind Up Strike</strong>
+      </td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3" rowspan="2">Damage: 19</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">(Technique)</td>
+    </tr>
+    <tr class="text-grey-dk-300 creature-content-bg-light">
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">6 Stamina</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Melee</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Roll To-Hit target’s Concentration; on success, this attack instead does 19 damage.</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
+        <strong>Urbosa's Fury</strong>
       </td>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3" rowspan="2">Damage: 14</td>
     </tr>
@@ -87,143 +106,92 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stee
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-light">
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">6 Mana</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Line 4</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Roll To-Hit target’s Concentration; on success, target is On Fire</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
-        <strong>Rock Fall</strong>
-      </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3" rowspan="2">Damage: -</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">(Technique)</td>
-    </tr>
-    <tr class="text-grey-dk-300 creature-content-bg-light">
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">6 Stamina</td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: - </td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
-        <strong>Use Requirement: </strong>Swimming in lava
-      </td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Roll 2d6 for each creature on the battlefield (except yourself). On a result of 9+ the creature is hit by a falling rock. Being struck by a rock deals 2 Blunt damage; this damage ignores any Defense (but not enchantments) provided by equipment.</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
-        <strong>Spin Attack</strong>
-      </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3" rowspan="2">Damage: 16</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">(Technique)</td>
-    </tr>
-    <tr class="text-grey-dk-300 creature-content-bg-light">
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">8 Stamina</td>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Range: Burst 1</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
-        <strong>Use Requirement: </strong>Melee Weapon
-      </td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">-</td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Roll To-Hit target’s Concentration; on success, target is Off-Balance.</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">
-        <strong>Default Weapon: </strong>Fiery Hair of Fabulousness ( Ball &amp; Chain )
+        <strong>Default Weapon: </strong>Phantom Trident
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">(Rank 2 - Natural)</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">(Rank 2 Spear - Demon Style)</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">Enchantment: Fire Weapon (Rank 2)</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Accuracy: 4</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Attack: 10</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Durability: 9</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">Dragon Breath Rod</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">(Rank 2 - Natural)</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="6">Enchantment: Fire Weapon (Rank 2)</td>
-    </tr>
-    <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Accuracy: 4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Accuracy: 3</td>
       <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Attack: 8</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Durability: 9</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark" colspan="2">Durability: 10</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
-        <strong>Lava Swim</strong> (Passive)
+        <strong>Shadow Rider</strong> (Passive)
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Volvagia can enter any lava square and swim. He can remain up to 2 rounds under lava before bursting out. While in lava, Volvagia is invisible, untargetable and can use his Rock Fall technique. A perception roll (DC 9) is required to see where Volvagia will come out.  Volvagia's movement for this turn ends when he comes out, grounding him.</td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Phantom starts the battle on a shadowy horse with a movement of 8 (Flying). Phantom is counted as if he had the Dragoon Elite feat and Dragoon Charger. He cannot use Dead Man's Volley while mounted nor Urbosa's Fury (see Passive). The horse disappears once Phantom reaches 50% HP. He then gets enraged and gains +2 Combat and +2 Accuracy.</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
-        <strong>Fragile Skull</strong> (Weak Point)
+        <strong>Shadow painter</strong> (Passive)
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Volvagia's skull is weak to blunt damage. If damaged by a blunt weapon, Volvagia is knocked prone and the next attack will count as if hitting a weak point. The head is Hard to Hit while grounded and Extremely Hard to it while in the air.</td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">While he rides his horse, Phantom Ganon can use his movement to hop into a nearby painting. He becomes untargetable as long as he remains in the painting. To attack him, the group must succeed at a Notice Extended Challenge DC 30. If the players fail to spot him, Phantom can burst out and cast Urbosa's fury at no cost. If they manage, Phantom Ganon become targetable once more. If attacked while in a painting, Phantom Ganon is thrown out of said painting and cannot enter another until the start of the next turn. Attacking a painting directly provoke an attack as if using the Riposte technique. Each painting has 25 HP and defense 10.</td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="6">
+        <strong>Weak to his own magic</strong> (Weak Point)
+      </td>
+    </tr>
+    <tr>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Damage taken by his own Dead Man's Volley ignore defense.</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rationnal</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Water</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Darkness</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Vulnerability: Water</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Vulnerability: Light</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Combat</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Willpower</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Accuracy</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Hearts</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Magic</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Stamina</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Athletics</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Arcana</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Nature</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">1</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Civilization</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Perception</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Agility</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Fortitude</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Influence</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Command</td>
@@ -231,15 +199,15 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stee
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Intimidate</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">6</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">7</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Discipline</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Insight</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Mechanics</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">0</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Perform</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Guile</td>
@@ -247,20 +215,20 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stee
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-dark fs-2">
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Smithing</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">4</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Enchanting</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">3</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">5</td>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-2">Cooking</td>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">2</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-2">1</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" rowspan="2">
         <strong>Drops:</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">10x Valvagia Scale (Rank 2 Monster Part)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">1x Weapons (When available)</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">Fairies</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">10x Phantom Mote  (Rank 2 Monster Part)</td>
     </tr>
   </thead>
 </table>
