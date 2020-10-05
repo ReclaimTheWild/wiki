@@ -185,10 +185,10 @@ While the fiery hair is a natural weapon, I'd personnaly allow it to be looted. 
       <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Volvagia's skull is weak to blunt damage. If damaged by a blunt weapon, Volvagia is knocked prone and the next attack will count as if hitting a weak point. The head is Hard to Hit while grounded and Extremely Hard to it while in the air.</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rationnal</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rational Intelligence</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Water</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Fire</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Vulnerability: Water</td>
