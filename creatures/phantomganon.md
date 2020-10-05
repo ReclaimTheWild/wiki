@@ -14,7 +14,7 @@ contributors:
 # Phantom Ganon
 
 The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating steed into painting to harass players with magic, before engaging in a deadly match of tennis. He needs a very specific arena, surrounded by tall portraits. You probably want to make said painting impossible to destroy one way or another. I made waves of Darkness-Keese spawn each time he hid in painting. This way the players have to spread between those attempting to beat the perception DC and those dealing with the keese to prevent everyone from going blind.
-{% include floating/image_center.html src="https://www.zeldadungeon.net/wiki/images/thumb/8/8d/Volvagia-Ocarina.png/300px-Volvagia-Ocarina.png" artist="Nintendo" %}
+{% include floating/image_center.html src="https://www.pngkit.com/png/full/46-460947_smash-project-ganondorf-phantom-ganon-smash-bros.png" artist="Nintendo" %}
 
 <table class="creature-table">
   <thead>
