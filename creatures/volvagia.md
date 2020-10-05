@@ -16,6 +16,8 @@ contributors:
 Known as the Gorons' archenemy, Volvagia is the terryfing dragon that once inhabited the top of Death Mountain. I created him as the final challenge to my re-interpretation of the classic Fire Temple.
 A perfect fight for a fire-themed temple, Volvagia is better used in an arena with plenty of magma spots to jump around and do some whack-a-mole. It can spread damage easily and use the environnement to attack. Because it can spends quite a bit of time under lava, pairing it with a couple of lesser ennemies might be useful to avoid players with nothing to do. You might want to think beforehand whetever or not you want to allow your players to grab on to it or if the beast fiery body prevents them from doing some Shadow of The Colossus action.
 
+While the fiery hair is a natural weapon, I'd personnaly allow it to be looted. It makes for a very badass looking weapon. 
+
 {% include floating/image_center.html src="https://www.zeldadungeon.net/wiki/images/thumb/8/8d/Volvagia-Ocarina.png/300px-Volvagia-Ocarina.png" artist="Nintendo" %}
 
 <table class="creature-table">
