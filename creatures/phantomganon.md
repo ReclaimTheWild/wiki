@@ -13,7 +13,9 @@ contributors:
 
 # Phantom Ganon
 
-The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating steed into painting to harass players with magic, before engaging in a deadly match of tennis. He needs a very specific arena, surrounded by tall portraits. You probably want to make said painting impossible to destroy one way or another. I made waves of Darkness-Keese spawn each time he hid in painting. This way the players have to spread between those attempting to beat the perception DC and those dealing with the keese to prevent everyone from going blind.
+The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stead into painting to harass players with magic, before engaging in a deadly match of tennis. He needs a very specific arena, surrounded by tall portraits. You probably want to make said painting impossible to destroy one way or another. I made waves of Darkness-Keese spawn each time he hid in painting. This way the players have to spread between those attempting to beat the perception DC and those dealing with the keese to prevent everyone from going blind. His weak point is pretty straight foward but not the easiest to exploit. That makes the fight itself pretty standard.
+
+
 {% include floating/image_center.html src="https://www.pngkit.com/png/full/46-460947_smash-project-ganondorf-phantom-ganon-smash-bros.png" artist="Nintendo" %}
 
 <table class="creature-table">
@@ -146,7 +148,7 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stee
       </td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Damage taken by his own Dead Man's Volley ignore defense.</td>
+      <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Damage taken by his own Dead Man's Volley ignore defense and knock him prone for a turn.</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rationnal</td>
