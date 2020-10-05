@@ -8,7 +8,7 @@ tags:
     - creature-rank-2
     - creature-boss
 contributors:
-    - alexandresep
+    - viyers
 ---
 
 # Volvagia
