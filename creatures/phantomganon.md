@@ -151,7 +151,7 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stea
       <td class="text-grey-dk-300 creature-content-bg-light fs-2" colspan="6">Damage taken by his own Dead Man's Volley ignore defense and knock him prone for a turn.</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rationnal</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rational Intelligence</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Darkness</td>
