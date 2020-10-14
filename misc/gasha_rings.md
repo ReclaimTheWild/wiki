@@ -10,10 +10,7 @@ contributors:
     - siraston
 ---
 
-Core v2.01
-{: .label .label-green .fs-6 }
-
-# Gasha Rings **Core v2.01**{: .label .label-green .fs-6 }
+# Gasha Rings **Core v2.01**{: .label .v2-01 .fs-6 } **Community Choice**{: .community-choice .fs-6}
 {: .no_toc }
 
 <details open markdown="block">

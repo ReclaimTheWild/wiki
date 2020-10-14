@@ -307,3 +307,23 @@ background-color: #E2EFD9;
 background-color: #C5E0B3;
 }
 
+/*
+** LABEL COLORS
+*/
+
+.v2-01 {
+  background-color: $green-200;
+}
+
+.v2-00 {
+  background-color: $yellow-200;
+}
+
+.v1-xx {
+  background-color: $red-200;
+}
+
+.community-choice {
+  background:linear-gradient(to right, #BF953F, #FCF6BA, #B38728, #FBF5B7, #AA771C);
+}
+
