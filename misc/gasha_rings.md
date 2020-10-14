@@ -100,26 +100,26 @@ The market value for Gasha Rings is the same as for Mundane Tools. Gasha Seeds h
 ## New Feats
 
 ### Gasha Ring Wizard
-*3 Tokens*
-**Learn Requirement**: Arcana 6
+*3 Tokens*  
+**Learn Requirement**: Arcana 6  
 **Effect**: You now have two Gasha Ring slots. You can still only attune yourself to one Gasha Ring during a single Extended Rest and you cannot use the same type of Gasha Ring in multiple slots (different versions of Knack Rings and Transform Rings don't count as the same type).
 
 ### Gasha Ring Warlock
-*6 Tokens*
-**Learn Requirement**: Arcana 9, Gasha Ring Wizard
+*6 Tokens*  
+**Learn Requirement**: Arcana 9, Gasha Ring Wizard  
 **Effect**: Your Gasha Ring Wizard feat now supports three Gasha Ring slots. 
 
 ### Gasha Seed Expert
-*3 Tokens*
-**Learn Requirement**: Insight 3
+*3 Tokens*  
+**Learn Requirement**: Insight 3  
 **Effect**: You can roll Insight against 5 plus twice the Gasha Seed's Rank to find out if it contains a Cursed Ring or not.
 
 ### Gasha Seed Scholar
-*3 Tokens*
-**Learn Requirement**: Gasha Seed Expert
+*3 Tokens*  
+**Learn Requirement**: Gasha Seed Expert  
 **Effect**: If your Insight roll to check for a Cursed Ring in Gasha Seeds exceeds the DC by 5, you know the exact Ring within the seed. 
 
 ### Gasha Tree Gardener
-*3 Tokens*
-**Learn Requirement**: Nature 3
+*3 Tokens*  
+**Learn Requirement**: Nature 3  
 **Effect**: Gasha Seeds crafted by you now take half the time to grow into trees carrying Gasha Nuts. 
