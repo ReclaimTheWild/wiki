@@ -2,7 +2,7 @@
 layout: default
 title: "Volvagia"
 summary: An iconic boss from Ocarina of Time!
-permalink: /creatures/volvagia_viyers
+permalink: /creatures/volvagia
 parent: Creatures
 tags:
     - creature-rank-2

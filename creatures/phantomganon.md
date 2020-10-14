@@ -2,7 +2,7 @@
 layout: default
 title: "Phantom Ganon"
 summary: An iconic boss from Ocarina of Time!
-permalink: /creatures/phantomganon_viyers
+permalink: /creatures/phantomganon
 parent: Creatures
 tags:
     - creature-rank-2
