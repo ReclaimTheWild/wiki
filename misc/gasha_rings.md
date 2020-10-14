@@ -10,7 +10,7 @@ contributors:
     - siraston
 ---
 
-Core v2.01
+TESTCore v2.01
 {: .label .label-green }
 
 # Gasha Rings
