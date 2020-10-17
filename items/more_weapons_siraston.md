@@ -60,31 +60,31 @@ contributors:
 
 <dl>
   <dt>Hammerhead Arrows</dt>
-  <dd>**Seeds**</dd>
+  <dd><strong>Seeds</strong></dd>
 
   <dt>Arrows</dt>
-  <dd>**Pine Seeds**</dd>
+  <dd><strong>Pine Seeds</strong></dd>
 
   <dt>Broadhead Arrows</dt>
-  <dd>**Leaf Seeds**</dd>
+  <dd><strong>Leaf Seeds</strong></dd>
 
   <dt>Bomb Arrows</dt>
-  <dd>**Bomb Flower Seeds**</dd>
+  <dd><strong>Bomb Flower Seeds</strong></dd>
 
   <dt>Elemental Arrows</dt>
-  <dd>**Seasonal Seeds**</dd>
+  <dd><strong>Seasonal Seeds</strong></dd>
 
   <dt>Showstopper Arrows</dt>
-  <dd>**Grass Whistle Seeds**</dd>
+  <dd><strong>Grass Whistle Seeds</strong></dd>
 
   <dt>Snag Arrows</dt>
-  <dd>**Sprout Seeds**</dd>
+  <dd><strong>Sprout Seeds</strong></dd>
 
   <dt>Guardian Arrows</dt>
-  <dd>**Ancient Scrap Seeds**</dd>
+  <dd><strong>Ancient Scrap Seeds</strong></dd>
 
   <dt>Silver Arrows</dt>
-  <dd>**Sunburst Seeds**</dd>
+  <dd><strong>Sunburst Seeds</strong></dd>
 </dl>
 
 ## New Feats

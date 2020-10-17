@@ -1,0 +1,63 @@
+---
+layout: default
+title: Lil' Oinks
+summary: Lil' Oinks, straight out of Paper Mario to help you gather more resources!
+permalink: /misc/lil_oinks
+parent: Misc
+tags:
+    - misc
+    - gathering
+contributors:
+    - pigluver3
+---
+
+# Lil' Oinks
+
+{% include floating/image_center src="https://i.redd.it/c6nfv7ckokd41.png" artist="Nintendo" %}
+
+Straight out of the first *Paper Mario* games, this article introduces Lil' Oinks as a way to gather more resources.
+
+Whenever a Lil' Oink should be found, refer to the following Lil' Oink generation table, using 1d6 to determine the row, the another 1d6 to determine the column :
+
+x |   1   |   2    |   3    |   4   |   5    |   6    |
+--|-------|--------|--------|-------|--------|--------|
+1 | Black | Black  | Black  | Black | Black  | Black  |
+2 | Pink  | Pink   | Pink   | Pink  | Pink   | Flower |
+3 | White | White  | White  | White | White  | Flower |
+4 | Tiger | Tiger  | Tiger  | Tiger | Tiger  | Flower |
+5 |Shroom | Shroom | Shroom | Star  | Silver | Flower |
+6 |Q-Mark | Q-Mark | Q-Mark | Star  | Silver | Gold   |
+
+You can then treat each Lil' Oink as a resource node of the appropriate type:
+
+<dl>
+  <dt><strong>Black</strong></dt>
+  <dd>R1 Healthy Critter</dd>
+
+  <dt><strong>White</strong></dt>
+  <dd>R2 Hearty Food Ingredient</dd>
+
+  <dt><strong>Pink</strong></dt>
+  <dd>R2 Thoughtful Food Ingredient</dd>
+
+  <dt><strong>Tiger</strong></dt>
+  <dd>R2 Enduring Food Ingredient</dd>
+
+  <dt><strong>Flower</strong></dt>
+  <dd>R3 Mighty Food Ingredient</dd>
+
+  <dt><strong>Mushroom</strong></dt>
+  <dd>R3 Tough Food Ingredient</dd>
+
+  <dt><strong>Question Mark</strong></dt>
+  <dd>R3 Sneaky Food Ingredient</dd>
+
+  <dt><strong>Star</strong></dt>
+  <dd>R4 Ancient Part</dd>
+
+  <dt><strong>Silver</strong></dt>
+  <dd>R4 Gemstone</dd>
+
+  <dt><strong>Gold</strong></dt>
+  <dd>R5 Star Fragment</dd>
+</dl>
