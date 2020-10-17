@@ -12,13 +12,15 @@ tags:
     - feat
     - technique
     - official-article
+    - trait-athletics
+    - trait-agility
 contributors:
     - milly
 ---
 
 Originally posted on the official website on [December 8th, 2019](https://reclaimthewild.net/index.php/2019/12/08/shred-the-wild/)
 
-# Shred the Wild
+# Shred the Wild {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">
@@ -85,7 +87,7 @@ If you are Shield Surfing on a Weapon Spirit, you are treated as mounting the We
 ### New Feat: Selmie’s Surfing Style
 
 *3 tokens*  
-**Trait Requirement: Athletics 3**  
+**Trait Requirement**: Athletics 3  
 **Effect**: When Shield Surfing with at least one empty hand, you can use the shield you are surfing on as if you had it equipped in your hand. For instance, the shield can be used for Basic Attacks, Combat Maneuvers, Reactions, etc, and the enchantment on the shield can apply to you as appropriate. Also, you can use Spells and Techniques if you are surfing on a Weapon Spirit. In addition, your surfing Shield’s damage rating increases by 2.
 
 ### New Feat: Surfer’s Alacrity

@@ -18,7 +18,7 @@ contributors:
 
 Originally posted on the official website on [August 15th, 2020](https://reclaimthewild.net/index.php/2020/08/15/revamped-item-hookshot/)
 
-# Revampied Item: Hookshot
+# Revamped Item: Hookshot {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

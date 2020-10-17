@@ -13,7 +13,7 @@ contributors:
 
 Originally posted on the official website on [April 15th, 2019](https://reclaimthewild.net/index.php/2019/04/15/improvised-magic/)
 
-# Improvised Magic
+# Improvised Magic {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

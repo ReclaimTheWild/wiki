@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [December 22nd, 2019](https://reclaimthewild.net/index.php/2019/12/22/new-item-holiday-lights/)
 
-# Holiday Lights
+# Holiday Lights {% include labels/v2-01 %}
 
 Today, we’ve got a quick bit of homebrew, inspired by my players’ actions just the other day: Holiday Lights!
 

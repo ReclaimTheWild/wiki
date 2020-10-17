@@ -10,7 +10,7 @@ contributors:
     - mei
 ---
 
-# Drama Cards
+# Drama Cards {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

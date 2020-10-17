@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [September 1st, 2019](https://reclaimthewild.net/index.php/2019/09/01/post-idea-new-spells/)
 
-# Spells from Link to the Past and Smash Bros.
+# Spells from Link to the Past and Smash Bros. {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

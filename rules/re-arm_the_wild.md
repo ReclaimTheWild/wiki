@@ -10,13 +10,14 @@ tags:
     - feat
     - technique
     - official-article
+    - trait-agility
 contributors:
     - milly
 ---
 
 Originally posted on the official website on [July 16th, 2020](https://reclaimthewild.net/index.php/2020/07/16/re-arm-the-wild/)
 
-# Re-ARM the Wild
+# Re-ARM the Wild {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

@@ -13,7 +13,7 @@ contributors:
 
 Originally posted on the official website on [December 1st, 2019](https://reclaimthewild.net/index.php/2019/12/01/new-song-fairys-frottola/)
 
-# Fairy's Frottola
+# Fairy's Frottola {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

@@ -10,13 +10,16 @@ tags:
     - feat
     - master-mode
     - official-article
+    - trait-arcana
+    - trait-civilization
+    - trait-nature
 contributors:
     - avarasheridan
 ---
 
 Originally posted on the official website on [May 1st, 2019](https://reclaimthewild.net/index.php/2019/05/01/new-race-weapon-spirits/)  
 
-# Weapon Spirit
+# Weapon Spirit {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">
@@ -49,7 +52,7 @@ Hair colors: Any, based on weapon form
 * ...To clear the name of your weapon’s legacy.
 
 
-**Weakness**: Fire or Electricity, depending on Weapon Form's material. Fire for Wooden weapons, Electricity for Metal weapons. If your Weapon Form is turned into an Ancient Weapon, your weakness becomes Darkness instead.  
+**Vulnerability**: Fire or Electricity, depending on Weapon Form's material. Fire for Wooden weapons, Electricity for Metal weapons. If your Weapon Form is turned into an Ancient Weapon, your weakness becomes Darkness instead.  
 **Bonuses**:
 * You have a single Rank 1 weapon of your choosing (known as your Weapon Form), which upgrades, repairs, and recovers Durability like a Weapon with a Weapon Spirit, recovering 2 Durability with every Extended Rest. When reduced to 0 Durability, it merely becomes unusable, instead of breaking. This weapon can be Enchanted, and used to harvest Materials, consuming Durability as normal. This weapon form may be wielded by others, but cannot move more than 16 squares away from you. If it should be moved past that distance, it will disappear, reappearing on your person.
 * You can inhabit your Weapon Form to be wielded by others, your humanoid body disappearing in the process until you stop or are disarmed from your wielder, entering and leaving your Weapon Form as a Minor Action. If you leave Weapon Form while being wielded, you can appear in any empty adjacent space. To inhabit your Weapon Form, you must be within 1 square of it.

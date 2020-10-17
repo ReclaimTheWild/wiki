@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [January 15th, 2019](https://reclaimthewild.net/index.php/2019/01/15/queens-cane/)
 
-# Queen's Cane
+# Queen's Cane {% include labels/v2-01 %}
 
 One of the most fun parts of a Zelda game is finding the cool new Magical Tools you’ll use to solve puzzles and navigate the world. And of course, tabletop game players love finding new items – and using them to circumvent the GM’s plans.
 

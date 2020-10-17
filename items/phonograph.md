@@ -15,7 +15,7 @@ contributors:
 
 Originally posted on the official website on [March 15th, 2019](https://reclaimthewild.net/index.php/2019/03/15/tool-idea-phonograph/)
 
-# Phonograph
+# Phonograph {% include labels/v2-01 %}
 
 Phonographs are a minor staple of the Zelda franchise, and serve as a useful shorthand for showcasing how technologically advanced a Zelda game world is: the more advanced their record-playing technology, the more advanced the world itself is.
 

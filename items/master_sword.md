@@ -16,7 +16,7 @@ contributors:
 
 Originally posted on the official website on [February 15th, 2019](https://reclaimthewild.net/index.php/2019/02/15/post-idea-master-sword/)
 
-# The Master Sword
+# The Master Sword {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

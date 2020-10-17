@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [August 1st, 2020](https://reclaimthewild.net/index.php/2020/08/01/new-item-stone-of-agony/)
 
-# Stone of Agony
+# Stone of Agony {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

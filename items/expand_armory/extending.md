@@ -18,7 +18,7 @@ contributors:
 
 Originally posted on the official website on [October 22nd, 2019](https://reclaimthewild.net/index.php/2019/10/22/expand-your-armory-extending-weapons/)
 
-# Expand Your Armory: Extending Weapons
+# Expand Your Armory: Extending Weapons {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

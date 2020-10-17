@@ -15,7 +15,7 @@ contributors:
 
 Originally posted on the official website on [October 31st, 2019](https://reclaimthewild.net/index.php/2019/10/31/new-race-acheman/)
 
-# Acheman
+# Acheman {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">
@@ -45,7 +45,7 @@ Fur colors: Black, brown, grey, orange, purple, red , or white
 * … to right your ancestor’s wrongs.
 * … to use the darkness against all who oppose you.
 
-**Weakness**: Light  
+**Vulnerability**: Light  
 **Bonuses**:
 * You can echolocate. As long as you can hear, you ignore any penalties involving visibility (including pure darkness, invisibility, and the blind condition). In addition, you also roll twice and use the better result when using Perception to find creatures through sound. This ability doesn’t negate the effects of cover or other barriers that provide a physical (not just visual) impediment to your attacks.
 * You may speak with, and understand, creatures of Limited Intelligence that serve or are controlled by a great evil. This does not mean they automatically want to speak with you, or that they will tell you the truth.

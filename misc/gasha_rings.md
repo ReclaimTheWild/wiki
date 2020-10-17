@@ -6,14 +6,12 @@ permalink: /misc/gasha_rings
 parent: Misc.
 tags:
     - misc
+    - item
 contributors:
     - siraston
 ---
 
-# Gasha Rings **Core v2.01**{: .label .v2-01 .fs-6 } **Community Choice**{: .label .community-choice .fs-6} **Core v2.00**{: .label .v2-00 .fs-6 } **Core v1.xx**{: .label .v1-xx .fs-6 }
-{: .no_toc }
-
-# Gasha Rings {% include labels/v2-01 %} {% include labels/v2-00 %} {% include labels/v1-xx %} {% include labels/community_choice %}
+# Gasha Rings {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

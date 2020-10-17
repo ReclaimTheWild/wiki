@@ -13,13 +13,15 @@ tags:
     - crafting-style
     - official-article
     - non-zelda-content
+    - trait-fortitude
+    - trait-smithing
 contributors:
     - milly
 ---
 
 Originally posted on the official website on [April 1st, 2020](https://reclaimthewild.net/index.php/2020/04/01/new-race-bob-omb/)
 
-# Bob-Omb
+# Bob-Omb {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">
@@ -51,7 +53,7 @@ Play a Bob-omb if you want…
 * … to struggle to figure out how to solve things without explosions even though you totally could just explode right now.
 * … to explore the strangeness of life as a metallic being in a world of fleshy people.
 
-**Weakness**: Fire  
+**Vulnerability**: Fire  
 **Bonuses**:
 * **Bomb**: You gain the Bomb ability. See below for details.
 * **Metallic Shell**: As a mechanical creature, you are made out of metal. By default, you are always a valid target for lightning strikes, can be interacted with magnetically, and can even become Corroded. You Corrode after you are damaged when in water. See the section below on the Corroded status.

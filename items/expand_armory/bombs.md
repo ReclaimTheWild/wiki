@@ -17,7 +17,7 @@ contributors:
 
 Originally posted on the official website on [November 15th, 2019](https://reclaimthewild.net/index.php/2019/11/15/expanding-your-armory-bombs/)
 
-# Expand Your Armory: Bombs
+# Expand Your Armory: Bombs {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

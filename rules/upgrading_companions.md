@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [March 1st, 2020](https://reclaimthewild.net/index.php/2020/03/01/upgrading-your-companions/)
 
-# Upgrading your Companions
+# Upgrading your Companions {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

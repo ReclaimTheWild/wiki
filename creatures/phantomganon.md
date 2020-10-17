@@ -11,7 +11,7 @@ contributors:
     - viyers
 ---
 
-# Phantom Ganon
+# Phantom Ganon {% include labels/v2-01 %}
 
 The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stead into painting to harass players with magic, before engaging in a deadly match of tennis. He needs a very specific arena, surrounded by tall portraits. You probably want to make said painting impossible to destroy one way or another. I made waves of Darkness-Keese spawn each time he hid in painting. This way the players have to spread between those attempting to beat the perception DC and those dealing with the keese to prevent everyone from going blind. His weak point is pretty straight foward but not the easiest to exploit. That makes the fight itself pretty standard.
 

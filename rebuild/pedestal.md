@@ -15,7 +15,7 @@ contributors:
 
 Originally posted on the official website on [February 1st, 2020](https://reclaimthewild.net/index.php/2020/02/01/new-building-pedestal/)
 
-# Pedestal
+# Pedestal {% include labels/rebuild/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

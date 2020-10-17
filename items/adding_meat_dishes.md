@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [November 22nd, 2019](https://reclaimthewild.net/index.php/2019/11/22/adding-meat-to-your-dishes/)
 
-# Adding Meat to your Dishes
+# Adding Meat to your Dishes {% include labels/v2-01 %}
 
 When we initially set out to create Reclaim the Wild‘s food-crafting system, we weren’t intending to create a wholly vegetarian list of Ingredients. But when we got done transcribing the Ingredients found in Breath of the Wild, we found we were already there – and we decided to see how far we could push it. (Turns out – pretty far! Excepting a few kinds of honey, all Food Ingredients listed in the Core Rulebook’s Appendix are some type of plant or fungus.)
 

@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [August 1st, 2019](https://reclaimthewild.net/index.php/2019/08/01/bottle-of-endless-water/)
 
-# Bottle of Endless Water
+# Bottle of Endless Water {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

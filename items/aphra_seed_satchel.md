@@ -14,7 +14,7 @@ contributors:
 
 Originally posted on the official website on [June 15th, 2019](https://reclaimthewild.net/index.php/2019/06/15/aphras-seed-satchel/)
 
-# Aphra's Seed Satchel
+# Aphra's Seed Satchel {% include labels/v2-01 %}
 
 It’s time to share another homebrewed Magical Tool – though this one is special, because it comes in parts!
 

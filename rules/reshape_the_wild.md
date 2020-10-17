@@ -13,7 +13,7 @@ contributors:
 
 Originally posted on the official website on [September 15th, 2019](https://reclaimthewild.net/index.php/2019/04/15/improvised-magic/)
 
-# Reshape the Wild
+# Reshape the Wild {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

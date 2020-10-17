@@ -16,7 +16,7 @@ contributors:
 
 Originally posted on the official website on [October 15th, 2019](https://reclaimthewild.net/index.php/2019/10/15/new-item-witchs-broom/)
 
-# Witch's Broom
+# Witch's Broom {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">

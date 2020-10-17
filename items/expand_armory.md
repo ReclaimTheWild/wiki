@@ -8,6 +8,6 @@ contributors:
     - milly
 ---
 
-# Expand Your Armory
+# Expand Your Armory {% include labels/v2-01 %}
 
 Collection of Homebrews adding weapons and beyond to the game.

@@ -308,7 +308,19 @@ background-color: #C5E0B3;
 }
 
 /*
-** LABEL COLORS
+*****************
+** LABEL COLORS *
+*****************
+*/
+
+.community-choice {
+  color: $grey-dk-200;
+  background: -webkit-linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+	background: linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+}
+
+/*
+** CORE RULEBOOK
 */
 
 .v2-01 {
@@ -324,9 +336,18 @@ background-color: #C5E0B3;
   background-color: $red-200;
 }
 
-.community-choice {
-  color: $grey-dk-200;
-  background: -webkit-linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
-	background: linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+/*
+** REBUILD RULEBOOK
+*/
+
+.rebuild-v2-01 {
+  background-color: $green-200;
 }
 
+/*
+** RAVAGE RULEBOOK
+*/
+
+.ravage-v2-01 {
+  background-color: $green-200;
+}

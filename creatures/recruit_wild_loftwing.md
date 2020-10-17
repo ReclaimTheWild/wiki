@@ -15,7 +15,7 @@ contributors:
 
 Originally posted on the official website on [February 14th, 2020](https://reclaimthewild.net/index.php/2020/02/14/recruit-the-wild-loftwing/)
 
-# Recruit the Wild: Loftwing
+# Recruit the Wild: Loftwing {% include labels/v2-01 %}
 {: .no_toc }
 
 <details open markdown="block">
