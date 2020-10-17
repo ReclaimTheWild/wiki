@@ -10,6 +10,7 @@ tags:
     - feat
     - technique
     - enchantment
+    - elixir
     - trait-smithing
     - trait-accuracy
     - trait-mechanics
