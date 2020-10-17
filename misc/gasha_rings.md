@@ -13,6 +13,9 @@ contributors:
 # Gasha Rings **Core v2.01**{: .label .v2-01 .fs-6 } **Community Choice**{: .label .community-choice .fs-6} **Core v2.00**{: .label .v2-00 .fs-6 } **Core v1.xx**{: .label .v1-xx .fs-6 }
 {: .no_toc }
 
+# Gasha Rings {% include labels/2-01.html %} {% include labels/2-01 %} {% include labels/2-00.html %} {% include labels/1-xx.html %} {% include labels/community_choice.html %}
+{: .no_toc }
+
 <details open markdown="block">
   <summary>
     Table of contents
