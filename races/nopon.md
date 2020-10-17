@@ -2,7 +2,7 @@
 layout: default
 title: Nopon
 summary: A concept for playing a Nopon, friendly fluffy balls from Xenoblade Chronicles.
-permalink: /races/weapon_spirit
+permalink: /races/nopon
 parent: Races
 tags:
     - race

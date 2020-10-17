@@ -2,7 +2,7 @@
 layout: default
 title: Stalfos
 summary: A concept for playing a Weapon Spirit, inspired by Fi and Ghirahim.
-permalink: /races/weapon_spirit
+permalink: /races/stalfos
 parent: Races
 tags:
     - race
