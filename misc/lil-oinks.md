@@ -3,7 +3,7 @@ layout: default
 title: Lil' Oinks
 summary: Lil' Oinks, straight out of Paper Mario to help you gather more resources!
 permalink: /misc/lil_oinks
-parent: Misc
+parent: Misc.
 tags:
     - misc
     - gathering
@@ -11,7 +11,7 @@ contributors:
     - pigluver3
 ---
 
-# Lil' Oinks
+# Lil' Oinks {% include labels/v2-01 %}
 
 {% include floating/image_center src="https://i.redd.it/c6nfv7ckokd41.png" artist="Nintendo" %}
 
@@ -27,6 +27,7 @@ x |   1   |   2    |   3    |   4   |   5    |   6    |
 4 | Tiger | Tiger  | Tiger  | Tiger | Tiger  | Flower |
 5 |Shroom | Shroom | Shroom | Star  | Silver | Flower |
 6 |Q-Mark | Q-Mark | Q-Mark | Star  | Silver | Gold   |
+{: .small-numbers-table}
 
 You can then treat each Lil' Oink as a resource node of the appropriate type:
 

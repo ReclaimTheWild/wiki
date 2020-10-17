@@ -84,7 +84,7 @@ The loosest restriction is to allow any player-usable Spells and Techniques (or 
 
 A restriction tighter than the basic one would be to have individual gems have specific Spells or Techniques. For instance, a rank 1 “Ruby of Zola’s Fireball” could be among the gems found in a pile of loot, and it could only be used to provide *Zola's Fireball* if used as the main gem for Tutoring. This can be a good means to teach Monster-unique abilities, such as “Ruby of *Fire Breath*” falling from a Dodongo.
 
-The tightest restriction is to not allow players to craft this Enchantment, but to simply allow it to be bought or found. This makes it easy for the GM to control just how many Tutoring Spells and Techniques the players have access to at one time. However, be careful, as [some players may find themselves unwilling to use certain items that cannot easily be crafted or bought](https://tvtropes.org/pmwiki/pmwiki.php/Main/TooAwesomeToUse).
+The tightest restriction is to not allow players to craft this Enchantment, but to simply allow it to be bought or found. This makes it easy for the GM to control just how many Tutoring Spells and Techniques the players have access to at one time. However, be careful, as some players may find themselves unwilling to use certain items that cannot easily be crafted or bought. ([See here](https://tvtropes.org/pmwiki/pmwiki.php/Main/TooAwesomeToUse))
 
 ### Thematic Restriction
 
