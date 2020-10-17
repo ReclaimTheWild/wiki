@@ -10,7 +10,7 @@ contributors:
     - siraston
 ---
 
-# Big Book of Bestial Boons {% include labels/ravage/v2-01 %} {% include labels/developer_choice %}
+# Big Book of Bestial Boons {% include labels/ravage/v2-01 %}
 
 The Big Book of Bestial Boons is a compilation of all monster-unique Techniques, Spells, Passives and Weak Points that are featured in Ravage the Wild, in a standardized format and with damage formulas for almost everything.
 
