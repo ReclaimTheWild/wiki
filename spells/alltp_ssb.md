@@ -26,13 +26,13 @@ Originally posted on the official website on [September 1st, 2019](https://recla
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/JTlfYI7.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/JTlfYI7.png" artist="Nintendo" %}
 
 While *Reclaim the Wild* has a good variety of Spells taken from all over the *Zelda* series, there were still some Spells that just didn’t make it in! There were also a few Spells from *Super Smash Bros.* that we just couldn’t find room for.
 
 Today, we’re adding a few of those forgotten Spells to the repertoire of heroic wizards and warlocks all over Hyrule. Check ’em out below!
 
-{% include floating/image_center.html src="https://i.imgur.com/kxdFcb9.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/kxdFcb9.png" artist="Nintendo" %}
 
 ## Spells
 {: .no_toc }

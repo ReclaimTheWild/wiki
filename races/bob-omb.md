@@ -31,7 +31,7 @@ Originally posted on the official website on [April 1st, 2020](https://reclaimth
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/AH8YzCM.png" artist="Nd Cube, et al." %}
+{% include floating/image_center src="https://i.imgur.com/AH8YzCM.png" artist="Nd Cube, et al." %}
 
 *Armaments made for an endless war,*
 *full of hope and explosive optimism.*
@@ -67,7 +67,7 @@ Select two of the following options:
 * **Roly-poly**: You can get up from Prone by only spending 1 Movement instead of half.
 * **Wick Lantern**: You can keep your wick lit without necessarily detonating. You can emit Dim Light from burst 0 (illuminating only yourself) to burst (Fortitude/2). Your wick can also be used as a Flint-Fire Kit of rank (Fortitude/2, round down). This cannot be used if you are Soaked. 
 
-{% include floating/image_center.html src="https://i.imgur.com/wlEVJ5M.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/wlEVJ5M.png" artist="Nintendo" %}
 
 ### Bomb
 
@@ -124,7 +124,7 @@ Other Bob-ombs have taken a vow of pacifism and have caps on their head instead 
 
 As mechanical beings, Bob-ombs have a wider palate than their fleshy compatriots, often adding metal shavings and oil to their meals.
 
-{% include floating/image_center.html src="https://i.imgur.com/eyiBuK4.png" artist="Nd Cube, et al." %}
+{% include floating/image_center src="https://i.imgur.com/eyiBuK4.png" artist="Nd Cube, et al." %}
 
 ## A Menagerie of Munitions
 
@@ -138,7 +138,7 @@ Chuck-Yas are a unique, mass-produced version of Bob-ombs, trading in two legs f
 
 With hard-fought freedom and the luxuries that come with civilization, many Bob-ombs have taken to changing themselves to fit the world around them – or to better find their own true self or reflect their profession. A few have been seen attempting to get bodies that match the people around them, be they human, Hylian, Goron, Toad, and the like.
 
-{% include floating/image_center.html src="https://i.imgur.com/UzjC6g0.png" artist="Intelligent Systems" %}
+{% include floating/image_center src="https://i.imgur.com/UzjC6g0.png" artist="Intelligent Systems" %}
 
 ## Playing a Bob-omb
 

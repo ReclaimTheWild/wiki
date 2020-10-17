@@ -33,13 +33,13 @@ To that end, today, we’re presenting an alternative means to dye one’s items
 
 ## Dyeberries
 
-{% include floating/image_center.html src="https://i.imgur.com/Y3eq4Pb.png" artist="Pokémon Dream World" %}
+{% include floating/image_center src="https://i.imgur.com/Y3eq4Pb.png" artist="Pokémon Dream World" %}
 
 **Dyeberries** are a new type of Food Material. Rather than having effects that boost one’s Traits or other crunchy stats, each Dyeberry has an associated color: Red, Orange, Yellow, Green, Blue, Indigo, Violet, Black, or White. While any Dyeberry of a given color will give you that particular hue, higher-quality Dyeberries might give richer, more vibrant colors. (If your GM does not specify a Rank for a Dyeberry, it defaults to Rank 1.)
 
 Dyeberries can be eaten raw, just like other Food Materials; in fact, some people will do this just to temporarily dye their tongues. They can also be used in Dishes and Elixirs, as normal, providing the typical benefit of (Rank) points towards the prepared substance (and tinting it, of course).
 
-{% include floating/image_center.html src="https://i.imgur.com/qZynwi0.png" %}
+{% include floating/image_center src="https://i.imgur.com/qZynwi0.png" %}
 
 However, when prepared together with at least one Critter, Dyeberries can make **Dyes**. Dyes are a new type of Elixir, though unlike most Elixirs, they do not restore any Health, Magic, or Stamina. Instead, using a Dye on an item will change some or all parts of that item to match the consumed Dye. Since a Dye can be made with multiple Dyeberries, you can mix and match the Dyeberries’ colors to get the exact hue you need.
 

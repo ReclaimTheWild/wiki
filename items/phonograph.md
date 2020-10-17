@@ -23,7 +23,7 @@ Appearing in Ocarina of Time, Majora’s Mask, Oracle of Seasons, and The Minish
 
 Below, for use in your own Reclaim the Wild games, we present a new Mundane Tool, the Phonograph, and its Ammunition, Discs.
 
-{% include floating/image_center.html src="https://i.imgur.com/qJa6VYF.png" artist="Sweet Clip Art" artist_src="http://sweetclipart.com/record-player-coloring-page-1729" custom_width="70" %}
+{% include floating/image_center src="https://i.imgur.com/qJa6VYF.png" artist="Sweet Clip Art" artist_src="http://sweetclipart.com/record-player-coloring-page-1729" custom_width="70" %}
 
 **Phonograph**: (Wood) A device that records and produces sound. A Phonograph might be cranked by hand, powered by a hand-wound spring, or they might be powered by an internal mechanism (such as a magical gem, electricity, or powered by wind or water), depending on the technology level of your game’s world. Phonographs play Discs; without a Disc to play, the Phonograph makes only white noise.
 

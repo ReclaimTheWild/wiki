@@ -25,7 +25,7 @@ Originally posted on the official website on [September 1st, 2020](https://recla
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/NSpGf00.png" artist="Nintendo" artist_src="https://www.smashbros.com/en_US/fighter/16.html" %}
+{% include floating/image_center src="https://i.imgur.com/NSpGf00.png" artist="Nintendo" artist_src="https://www.smashbros.com/en_US/fighter/16.html" %}
 
 Today, we present some Techniques based on Sheik’s exploits, so that you might also be as cool and powerful as this enigmatic warrior. These Techniques are ideal for Heroes who want to move and strike quickly, and keep opponents from knowing exactly who or where they are.
 

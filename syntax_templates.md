@@ -538,19 +538,19 @@ Syntax:
 
 {% raw %}
 ```
-{% include floating/image_center.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 
-{% include floating/image_left.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
-{% include floating/image_right.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_left src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_right src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 ```
 {% endraw %}
 
 Example:
 
-{% include floating/image_center.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 
-{% include floating/image_left.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
-{% include floating/image_right.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_left src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_right src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 
 <br>
 <br>

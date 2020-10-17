@@ -29,7 +29,7 @@ contributors:
 They're available for download [here](https://drive.google.com/file/d/1eQtMWwo5iHededvsiv_T2i9EP0OOo5FL/view?usp=sharing){: target="_blank"}.  
 *Lastly updated: September 13th, 2020*
 
-{% include floating/image_center.html src="https://i.imgur.com/sOjKuwt.png" custom_width="98" %}
+{% include floating/image_center src="https://i.imgur.com/sOjKuwt.png" custom_width="98" %}
 
 ## Concept
 

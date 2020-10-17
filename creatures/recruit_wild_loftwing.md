@@ -27,7 +27,7 @@ Originally posted on the official website on [February 14th, 2020](https://recla
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/TD8ZhEn.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/TD8ZhEn.png" artist="Nintendo" %}
 
 Loftwings are one of the various unique creatures in the Zelda franchise, as they are a cross between horses and shoebills. Although only shown in Skyward Sword, they certainly made an impact: it’s a fantastical creature fans can imagine caring for, explore the skies with, and use in fantasy aerial dogfights. If you should want to include them in your game, click on!
 
@@ -230,7 +230,7 @@ Below you will find some options to progress a Loftwing Companion, or for GMs to
 
 (Cloth) As a Reaction, you can replace all non-Hands-Free items in your hands and deploy this Sailcloth. Deploying the Sailcloth reduces your damage from falling to (5 – Rank), if it is higher. In addition, while falling, you can adjust your position up to (Rank / 2) squares in any horizontal direction, and you are affected by air currents as if you were Gliding.
 
-{% include floating/image_center.html src="https://i.imgur.com/9XTZRwS.jpg" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/9XTZRwS.jpg" artist="Nintendo" %}
 
 ## Quest Ideas
 

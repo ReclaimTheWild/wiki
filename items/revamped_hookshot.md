@@ -218,7 +218,7 @@ In the scenario below, the Hylian uses his Hookshot to cast Wings of Freedom as 
 
 The Hylian can also use Wings of Freedom to aim the Hookshot at the purple block above the southern set of pits. He can swing over eastward toward the Moblin, then northward. However, he would not be able to swing past the northern pit; as such, he’d have to use the hookshot on the block directly north of him.
 
-{% include floating/image_center.html src="https://i.imgur.com/JJq9bLj.png" %}
+{% include floating/image_center src="https://i.imgur.com/JJq9bLj.png" %}
 
 Either way, the total cost for the 6 squares of swinging movement is 6 Magic/Stamina. If the Hylian or the Hookshot have the Practiced Efficiency Feat/Personal Touch, then the total cost of the movement is 4 Magic/Stamina.
 

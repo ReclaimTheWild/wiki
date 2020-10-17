@@ -27,7 +27,7 @@ Originally posted on the official website on [October 31st, 2019](https://reclai
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/auXeXza.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/auXeXza.png" artist="Nintendo" %}
 
 *On silent wings fly the terrors – and saviors – of the night.*
 {: .text-center }
@@ -52,7 +52,7 @@ Fur colors: Black, brown, grey, orange, purple, red , or white
 * As a minor action, you can transform into (or from) your Ache form, which is Small. In your Ache form, you cannot use weapons, but you have natural flight and natural gliding, and can hang upside down from ceilings without issue. You also roll twice and use the better result when using Agility trait rolls.
 * In your humanoid form, you have unnatural flight and unnatural gliding. 
 
-{% include floating/image_center.html src="https://i.imgur.com/gvGREbD.png" artist="Karma" artist_src="https://www.deviantart.com/cute-kawsmos" %}
+{% include floating/image_center src="https://i.imgur.com/gvGREbD.png" artist="Karma" artist_src="https://www.deviantart.com/cute-kawsmos" %}
 
 ## Description
 
@@ -64,7 +64,7 @@ Achemen tend to dwell in caves, occasionally with their fellow monsters, though 
 
 Most Achemen prefer the taste of blood, especially from unwilling and struggling citizens of Hyrule. When they can’t get their favorite meal, though, they may settle for any wild (or domesticated) creature they can get their claws on. The more considerate and discreet Achemen mainly eat fruits and insects to gain their sustenance, though if a willing person were to offer their own blood… 
 
-{% include floating/image_center.html src="https://i.imgur.com/xnmrv2z.png" artist="Karma" artist_src="https://www.deviantart.com/cute-kawsmos" %}
+{% include floating/image_center src="https://i.imgur.com/xnmrv2z.png" artist="Karma" artist_src="https://www.deviantart.com/cute-kawsmos" %}
 
 ## History
 
@@ -83,7 +83,7 @@ While kin groups are often named after a matriarch, the biggest divisions in Ach
 
 In time, however, a few Achemen have grown tired of the constant cycle of conflict and devastation, and have left their home colonies for a change of culture. These few Exiles, or Vagabonds, contain a seed of goodness within them, that sometimes sprouts and encourages them to help improve the world where many of their fellows only destroy. Often, though, they will be shunned, and even attacked, unless – and sometimes even despite – showing their better nature. Most rogue Achemen simply live their lives in solitude, or disguised as a Keese, though a rare few put on a magical disguise and live among others. 
 
-{% include floating/image_center.html src="https://i.imgur.com/WzB48ux.png" artist="Karma" artist_src="https://www.deviantart.com/cute-kawsmos" %}
+{% include floating/image_center src="https://i.imgur.com/WzB48ux.png" artist="Karma" artist_src="https://www.deviantart.com/cute-kawsmos" %}
 
 ## Playing an Acheman
 

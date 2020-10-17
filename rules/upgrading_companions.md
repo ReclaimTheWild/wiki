@@ -26,7 +26,7 @@ Originally posted on the official website on [March 1st, 2020](https://reclaimth
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/mEFs2Qi.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/mEFs2Qi.png" artist="Nintendo" %}
 
 Companions are great to bring along on heroic adventures, but the gear-based progression in *Reclaim the Wild* does not always fit with certain companions. For some people, a Dog wielding a rank 3 Sword would be cool; for others, this does not fit with the image they have for their furry friend. Regardless, a Dog attacking with their teeth (a rank 1 Natural Dagger) would likely be more of a hindrance in combat than an asset after a certain point.
 

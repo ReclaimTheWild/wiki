@@ -30,7 +30,7 @@ Originally posted on the official website on [October 22nd, 2019](https://reclai
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/BwLgTkc.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/BwLgTkc.png" artist="Nintendo" %}
 
 Through Hyrule’s history, smiths continually invent more weapons, whether to slay the forces of darkness or light. A particular category of weapons involves the use of flexible materials or chains in order to create Extending weapons. Though less accurate than a typical sword or spear, these weapons allow their wielders to keep their foes at a distance, and even to use potent melee Techniques while out of their target’s reach.
 
@@ -52,7 +52,7 @@ Below is a list of new weapons and attacks especially favored by those who expec
 
 Weapons with this property can extend beyond melee range and gain the Whipcrack basic attack. In addition, characters wielding a Extending weapon can perform Combat Maneuvers from up to (Whipcrack‘s range). Extending weapons count as empty hands for the purposes of Grappling.
 
-{% include floating/image_center.html src="https://i.imgur.com/ehE8Qbg.png" artist="Capcom" %}
+{% include floating/image_center src="https://i.imgur.com/ehE8Qbg.png" artist="Capcom" %}
 
 ### New Basic Attack: Whipcrack
 
@@ -61,7 +61,7 @@ Weapons with this property can extend beyond melee range and gain the Whipcrack 
 **Damage**: Weapon + Combat  
 **Special**: Your Extending weapon is not thrown by using this basic attack. This is considered a Melee attack for all other purposes, including Reactions. If you have the Longshot feat, increase the range of this basic attack by 2.
 
-{% include floating/image_center.html src="https://i.imgur.com/Z1YWRD1.png" artist="Konami" %}
+{% include floating/image_center src="https://i.imgur.com/Z1YWRD1.png" artist="Konami" %}
 
 ##  New Extending Weapon Options
 

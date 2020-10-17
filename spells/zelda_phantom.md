@@ -25,7 +25,7 @@ Originally posted on the official website on [October 1st, 2019](https://reclaim
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/WaCjlQz.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/WaCjlQz.png" artist="Nintendo" %}
 
 When we were making new Spells in a previous article, there was one that demanded lots of extra attention: Zelda’s ability to summon a Phantom in *Super Smash Bros*. It’s a Spell we’ve long wanted to include in *Reclaim the Wild*, but we always knew it’d be a little more complicated than most other Spells.
 
@@ -65,7 +65,7 @@ The Phantom’s stats are based upon how much MP you Bind to it. The more MP Bou
 * Power Traits: (MP Bound / 2)
 * Courage and Wisdom Traits: (MP Bound / 4)
 
-{% include floating/image_center.html src="https://i.imgur.com/anFDgCC.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/anFDgCC.png" artist="Nintendo" %}
 
 ## Customizing Phantoms
 

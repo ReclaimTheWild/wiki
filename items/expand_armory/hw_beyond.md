@@ -31,7 +31,7 @@ Originally posted on the official website on [May 1st, 2020](https://reclaimthew
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/j9fopTI.png" artist="Omega Force, et al" %}
+{% include floating/image_center src="https://i.imgur.com/j9fopTI.png" artist="Omega Force, et al" %}
 
 *Hyrule Warriors* and *Breath of the Wild* contained numerous new weapons, so here is an article that will provide weapons from those two games and beyond. In addition, we have new character options that allow you to use your weapons in unique new ways, plus two new Master Modes!
 
@@ -68,7 +68,7 @@ Note 5: **[Quarterstaves](https://en.wikipedia.org/wiki/Quarterstaff)** may also
 
 Note 6: **Summoning weapons** apply their weapon style and applicable enchantments to the weapons of creatures created, conjured, or summoned through spells and techniques, such as [Zelda’s Phantom]({{ "/spells/zelda_phantom" | absolute_url }}).
 
-{% include floating/image_center.html src="https://i.imgur.com/vTpgUEL.png" artist="Omega Force, et al" %}
+{% include floating/image_center src="https://i.imgur.com/vTpgUEL.png" artist="Omega Force, et al" %}
 
 ## New Weapon Options
 
@@ -160,7 +160,7 @@ You may also magnetically wield and use metal non-weapon items (such as lockpick
 **Effect**: When you learn this technique, choose one of the following Edge Types: blunt, piercing, sharp. When you use this technique, your melee weapon now deals that type of damage instead of its normal Edge Type.  
 **Special**: You can buy this technique multiple times. Each time, you can choose an Edge Type you do not already have. If you have multiple versions of this technique, then you can choose which Edge Type you wish to use when you enter it, and you can change it as a minor action.
 
-{% include floating/image_center.html src="https://i.imgur.com/VIJrMnr.png" artist="Omega Force, et al" %}
+{% include floating/image_center src="https://i.imgur.com/VIJrMnr.png" artist="Omega Force, et al" %}
 
 ## New Master Mode: Diverse Ammunition
 

@@ -30,7 +30,7 @@ Originally posted on the official website on [August 1st, 2020](https://reclaimt
 
 Secrets abound in the world. Whether put there deliberately or simply created by pure chance, the sheer amount of things hidden from the casual glance can give even the most ardent explorer a lifetime’s worth of nooks and crannies to peer into, always finding something new. What if you had a way to find these things easier? A dowsing rod for the hidden things? Some might want to exploit such a gift, but even gifts can be double-edged.
 
-{% include floating/image_center.html src="https://i.imgur.com/tT1bh9j.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/tT1bh9j.png" artist="Nintendo" %}
 
 ## Stone of Agony
 

@@ -18,7 +18,7 @@ A perfect fight for a fire-themed temple, Volvagia is better used in an arena wi
 
 While the fiery hair is a natural weapon, I'd personnaly allow it to be looted. It makes for a very badass looking weapon. 
 
-{% include floating/image_center.html src="https://www.zeldadungeon.net/wiki/images/thumb/8/8d/Volvagia-Ocarina.png/300px-Volvagia-Ocarina.png" artist="Nintendo" %}
+{% include floating/image_center src="https://www.zeldadungeon.net/wiki/images/thumb/8/8d/Volvagia-Ocarina.png/300px-Volvagia-Ocarina.png" artist="Nintendo" %}
 
 <table class="creature-table">
   <thead>

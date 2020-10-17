@@ -30,7 +30,7 @@ Originally posted on the official website on [July 16th, 2020](https://reclaimth
 
 In honor of Min Min joining Super Smash Brothers Ultimate, here is some ARMS-related material that couldn’t wait until April first!
 
-{% include floating/image_center.html src="https://i.imgur.com/vDuLMFs.jpg" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/vDuLMFs.jpg" artist="Nintendo" %}
 
 The ARMS phenomena is a mystery that affects animals and plants. Dedicated research by experts has yielded no clues in its origin, whether it is hereditary, a mutation, extraterrestrial experimentation, or even just plain magic.
 
@@ -46,7 +46,7 @@ Most people suddenly develop spring-like anatomy and the accompanying spiral eye
 
 This technique forms the core of the fighting style in the sport of ARMS. With it you can make melee attacks and Combat Maneuvers like Grapple at a range, using any weapon you like. Activating ARMed and Dangerous may involve putting on the [mask required to properly control the ARMS in spiral form](https://twitter.com/NintendoEurope/status/877103769200336897/).
 
-{% include floating/image_center.html src="https://i.imgur.com/vhI0csc.jpg" %}
+{% include floating/image_center src="https://i.imgur.com/vhI0csc.jpg" %}
 
 ### Who should get ARMS?
 
@@ -183,7 +183,7 @@ The Chain Rope feat has been updated to include information for using your Bare 
 *Minor action*  
 **Effect**: Choose a location within (Whipcrack’s range). The next non-Whipcrack Ranged Basic Attack you make this turn is treated as originating within that location. You still use your original position to determine whether you can see a target, and to determine if the enemy can attack you as part of their Reactions. For instance, if you use this technique to shoot around a corner, an enemy using Perfect Deflection can’t return the attack unless they can also bend the attack around the corner.
 
-{% include floating/image_center.html src="https://i.imgur.com/5NcQxjR.jpg" %}
+{% include floating/image_center src="https://i.imgur.com/5NcQxjR.jpg" %}
 
 ## Weapons
 

@@ -27,7 +27,7 @@ Originally posted on the official website on [February 1st, 2020](https://reclai
 {:toc}
 </details>
 
-{% include floating/image_center.html src="https://i.imgur.com/5S0eRcO.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/5S0eRcO.png" artist="Nintendo" %}
 
 While the *Rebuild the Wild* supplement offers a variety of new Buildings and Amenities for Heroes to outfit their towns with, there’s one critical piece of *Zelda* architecture that it’s been missing: the Pedestal.
 
@@ -39,7 +39,7 @@ Check it out below!
 
 ## New Building: Pedestal
 
-{% include floating/image_center.html src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/49pURK9.png" artist="Nintendo" %}
 
 **Required Materials**:
 * 5 Gems
