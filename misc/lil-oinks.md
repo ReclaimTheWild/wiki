@@ -15,18 +15,18 @@ contributors:
 
 {% include floating/image_center src="https://i.redd.it/c6nfv7ckokd41.png" artist="Nintendo" %}
 
-Straight out of the first *Paper Mario* games, this article introduces Lil' Oinks as a way to gather more resources.
+Straight out of the first *Paper Mario* games, this article introduces [Lil' Oinks](https://www.mariowiki.com/Li%27l_Oink) as a way to gather more resources.
 
 Whenever a Lil' Oink should be found, refer to the following Lil' Oink generation table, using 1d6 to determine the row, the another 1d6 to determine the column :
 
-x                  |   1    |   2    |   3    |   4   |   5    |   6    |
--------------------|--------|--------|--------|-------|--------|--------|
-<strong>1</strong> | Black  | Black  | Black  | Black | Black  | Black  |
-<strong>2</strong> | Pink   | Pink   | Pink   | Pink  | Pink   | Flower |
-<strong>3</strong> | White  | White  | White  | White | White  | Flower |
-<strong>4</strong> | Tiger  | Tiger  | Tiger  | Tiger | Tiger  | Flower |
-<strong>5</strong> | Shroom | Shroom | Shroom | Star  | Silver | Flower |
-<strong>6</strong> | Q-Mark | Q-Mark | Q-Mark | Star  | Silver | Gold   |
+| x                  |   1    |   2    |   3    |   4   |   5    |   6    |
+| -------------------|--------|--------|--------|-------|--------|--------|
+| <strong>1</strong> | Black  | Black  | Black  | Black | Black  | Black  |
+| <strong>2</strong> | Pink   | Pink   | Pink   | Pink  | Pink   | Flower |
+| <strong>3</strong> | White  | White  | White  | White | White  | Flower |
+| <strong>4</strong> | Tiger  | Tiger  | Tiger  | Tiger | Tiger  | Flower |
+| <strong>5</strong> | Shroom | Shroom | Shroom | Star  | Silver | Flower |
+| <strong>6</strong> | Q-Mark | Q-Mark | Q-Mark | Star  | Silver | Gold   |
 {: .small-numbers-table}
 
 You can then treat each Lil' Oink as a resource node of the appropriate type:
