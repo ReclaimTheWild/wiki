@@ -1,5 +1,5 @@
 ---
-description: Just a Goron Bard wandering the lands and taking notes (pen&paper ones) while making notes (musical ones).
+description: Just a Goron Bard.
 ---
 {% include contributors/page_header.md %}
  
