@@ -39,7 +39,7 @@ Stalfos have no hair nor skin.
 * ...to take advantage of your skeletal nature to confound foes.
 * ...to embrace the peace and dignity of death...or just make a bunch of skeleton jokes.
 
-**Vulnerability**: Light
+**Vulnerability**: Light  
 **Bonuses**:
 * You cannot eat food and gain no benefit from Food or Dishes. However, you may still benefit from Elixirs and Magic, and may consume Monster Parts to regain Health equal to twice the Part's Rank.
 * You have no need to breathe, and cannot drown or suffocate.

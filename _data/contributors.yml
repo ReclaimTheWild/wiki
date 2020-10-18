@@ -35,6 +35,7 @@
 
 - id: snacks
   name: Snacks
+  avatar: snacks.png
 
 - id: sirus
   name: Sirus

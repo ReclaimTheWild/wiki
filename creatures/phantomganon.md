@@ -154,7 +154,7 @@ The ghostly guardian of the Forest Temple, Phantom Ganon rides his floating stea
       <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Rational Intelligence</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Darkness</td>
+      <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Immunity: Dark</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-dark fs-4" colspan="6">Vulnerability: Light</td>
