@@ -40,14 +40,14 @@ contributors:
 | Portable Cannon                 | 2   | +2  | -1  | Percing              | 2     | Ranged | Artillery<sup>3</sup>                             |
 | Gerudo Sabre                    | 3   | +0  | -1  | Sharp                | 1     | Melee  | Lunging<sup>4</sup>                               |
 | Seed Shooter<sup>1</sup>        | 2   | +1  | +2  | Blunt<sup>1</sup>    | 2     | Ranged |                                                   |
-| Sheikah Switchblade<sup>2</sup> | 4   | +0  | +0  | Sharp                | 2     | Melee  | Hands-Free, Sweeping                              |
+| Sheikah Combat Wires<sup>2</sup> | 4   | +0  | +0  | Sharp                | 2     | Melee  | Hands-Free, Sweeping                              |
 | Rito Hatchet                    | 4   | -1  | -1  | Sharp                | 1     | Melee  | Weighted<sup>5</sup>                              |
 | Zora Pearlshield                | 2   | -2  | +0  | Blunt                | 1     | Arcane | Defensive, Wizardly                               |
 {: .small-numbers-table}
 
 **Note 1, Seed Shooter**: The listed Edge type typically applies when using Techniques that do not rely on basic attacks. Under Master Mode rules, Seed Shooters use Seeds as ammunition instead of Arrows (see [Expand Your Armory]({{ "/items/expand_armory" | absolute_url }})).
 
-**Note 2, Sheikah Switchblade**: A mysterious weapon that dates back to ancient times, the weapon is capable of folding into itself to preserve space while not in use to keep the hands unoccupied, making it ideal for Sheikah agents who expect both infiltration and heavy combat during the same mission.
+**Note 2, Sheikah Combat Wires**: Comes with a pair of gloves, a "wire" glove and a "hook" glove. The hook glove pulls one or multiple strings of sharp steel out of the wire glove, the latter can retract the wires via thumb button press. The wires can be used as a garrote or like a bladed whip, using the hook glove to fixate the garrote or manipulate the wires mid-swing.
 
 **Note 3**: *Artillery* weapons consume Cannonballs instead of Arrows when using the Shoot Arrow action, ignoring the Cannonball's base damage (see Rebuild the Wild, Page 38). When attacking, add (Cannonball's Rank / 2, rounded up) to the weapon's ATK.
 
@@ -55,7 +55,7 @@ contributors:
 
 **Note 5**: *Weighted* weapons are made for throwing, having been prepared in such a way that they can be easily accessed. Weighted Weapons have +3 ATK when thrown and immediately after an action that involved throwing Weighted weapons, you may move an item from your belt or a Weighted weapon from your pack into your empty hand(s) as a free action. Weighted Weapons are a prime candidate for adding the Throw Only keyword.
 
-*Throw Only* weapons have been made exclusively for fire-and-forget purposes. They have half their Market value than normal for their Rank, but they only have half as much Duration and using such a weapon for anything but the Throw Weapon Basic Attack and Techniques that require a Thrown Weapon will make it take Durability damage equal to its Durability after the action has been resolved. 
+**Throw Only** weapons have been made exclusively for fire-and-forget purposes. They have half their Market value than normal for their Rank, but they only have half as much Duration and using such a weapon for anything but the Throw Weapon Basic Attack and Techniques that require a Thrown Weapon will make it take Durability damage equal to its Durability after the action has been resolved. 
 
 ### Seed Name Conversion Suggestions:
 
@@ -118,7 +118,7 @@ contributors:
 ### Crafting Modification: Throw Only
 *3 Tokens*  
 **Learn Requirement**: Smithing 3  
-**Effect**: You may choose to use this whenever crafting a Melee weapon. The weapon costs half as many materials (after modified by Crafting Style and other Crafting Modifications), and gains the Throw Only keyword.
+**Effect**: You may choose to use this whenever crafting a weapon. The weapon costs half as many materials (after modified by Crafting Style and other Crafting Modifications), and gains the Throw Only keyword.
 
 *More informations about Crafting Modifications available [here]({{ "/feats/crafting_modifications" | absolute_url }})*
 
