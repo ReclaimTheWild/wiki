@@ -14,16 +14,17 @@ contributors:
 
 # Almiraj {% include labels/v2-01}
 
-  Oversized rabbits with long, spiraling horns, Almirajes are one of the many creatures that originate from the Feywild. Although considered to be unintelligent and
+Oversized rabbits with long, spiraling horns, Almirajes are one of the many creatures that originate from the Feywild. Although considered to be unintelligent and
 unpredictable by some, they have proven themselves to be capable of rudimentary tactics, including burrowing under foes to move unnoticed and catch them by surprise
 Timid and faithful creatures, Almirajes are considered to be easy to tame and are often sought out as companions by both humanoid and non-humanoid creatures.
 Herbiverous creatures, they consume primarily nuts and fruit. When approaching them, it is best to carry food with you, for after all, a well-fed Almiraj is a happy
 Almiraj.
 
-  Fearful creatures, Almirajes rarely strike first at predators, opting instead to remain in their burrows, only fighting when directly confronted. In combat,
+Fearful creatures, Almirajes rarely strike first at predators, opting instead to remain in their burrows, only fighting when directly confronted. In combat,
 Almirajes swarm around their foes, impaling them with their horns before fleeing out of range of their attacks.
 
-{% include floating/image_center src="https://vignette.wikia.nocookie.net/forgottenrealms/images/c/cb/Almiraj.png" artist="Wizards of the Coast" %}
+
+{% include floating/image_center src="https://vignette.wikia.nocookie.net/forgottenrealms/images/c/cb/Almiraj.png/revision/latest/scale-to-width-down/350?cb=20170924115306" artist="Wizards of the Coast" %}
 
 <table class="creature-table">
   <thead>
