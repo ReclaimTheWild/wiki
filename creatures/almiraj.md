@@ -23,7 +23,7 @@ Almiraj.
   Fearful creatures, Almirajes rarely strike first at predators, opting instead to remain in their burrows, only fighting when directly confronted. In combat,
 Almirajes swarm around their foes, impaling them with their horns before fleeing out of range of their attacks.
 
-{% include floating/image_center src="https://vignette.wikia.nocookie.net/forgottenrealms/images/c/cb/Almiraj.png/revision/latest/scale-to-width-down/350?cb=20170924115306" artist="Wizards of the Coast" %}
+{% include floating/image_center src="https://vignette.wikia.nocookie.net/forgottenrealms/images/c/cb/Almiraj.png" artist="Wizards of the Coast" %}
 
 <table class="creature-table">
   <thead>
