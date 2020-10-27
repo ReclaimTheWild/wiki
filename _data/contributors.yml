@@ -48,3 +48,8 @@
 - id: maddie
   name: Maddie
   avatar: maddie.png
+
+- id: blizzard
+  name: Blizzard
+  avatar: blizzard.png
+  bio: A GM with more bad ideas than common sense.
