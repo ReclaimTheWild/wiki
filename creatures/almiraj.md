@@ -14,8 +14,8 @@ contributors:
 
 # Almiraj {% include labels/v2-01 %}
 
-Oversized rabbits with long, spiraling horns, Almirajes are one of the many creatures that originate from the Feywild. Although considered to be unintelligent and
-unpredictable by some, they have proven themselves to be capable of rudimentary tactics, including burrowing under foes to move unnoticed and catch them by surprise
+Resembling oversized rabbits with long, spiraling horns, Almirajes are one of the many creatures that originate from the Feywild. Although considered to be unintelligent and
+unpredictable by some, they have proven themselves to be capable of rudimentary tactics, including burrowing under foes to move unnoticed and catch them by surprise.
 Timid and faithful creatures, Almirajes are considered to be easy to tame and are often sought out as companions by both humanoid and non-humanoid creatures.
 Herbiverous creatures, they consume primarily nuts and fruit. When approaching them, it is best to carry food with you, for after all, a well-fed Almiraj is a happy
 Almiraj.
@@ -77,7 +77,7 @@ Almirajes swarm around their foes, impaling them with their horns before fleeing
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">
         <strong>Bubble's Touch</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Damage: 8 Light</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">Damage: 9 Light</td>
     </tr>
     <tr class="text-grey-dk-300 creature-content-bg-light">
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="3">4 Magic</td>
@@ -207,10 +207,10 @@ Almirajes swarm around their foes, impaling them with their horns before fleeing
       <td class="text-grey-dk-300 creature-content-bg-light" rowspan="3">
         <strong>Drops:</strong>
       </td>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">1x Almiraj Horn (Rank 1 Fairy Style Dagger, Natural)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">1x Almiraj Horn (Rank 1 Fairy Style Dagger)</td>
     </tr>
     <tr>
-      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">1x Almiraj Flesh (Rank 1 Meat, Hasty)</td>
+      <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">1x Almiraj Flesh (Rank 1 Food Ingredient)</td>
     </tr>
     <tr>
       <td class="text-grey-dk-300 creature-content-bg-light" colspan="5">2x Almiraj Hide (Rank 1 Monster Part)</td>
