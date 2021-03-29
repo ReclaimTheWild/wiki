@@ -12,7 +12,7 @@ contributors:
     - blizzard
 ---
 
-# Almiraj {% include labels/v2-01 %}
+# Almiraj {% include labels/v2-02 %}
 
 Resembling oversized rabbits with long, spiraling horns, Almirajes are one of the many creatures that originate from the Feywild. Although considered to be unintelligent and
 unpredictable by some, they have proven themselves to be capable of rudimentary tactics, including burrowing under foes to move unnoticed and catch them by surprise.
