@@ -64,7 +64,7 @@ Note 3:  Portmanteau of violin + lance.
 
 While not all possible Instruments are represented above, you can use the guidelines found in the [Design Your Weapon](https://reclaimthewild.net/index.php/2020/07/01/design-your-weapon/) article to homebrew your own!
 
-{% include floating/image_center src="https://i.imgur.com/iZ7Vwfk.png" description="Screenshot of Hyrule Warriors: Definitive Edition" %}
+{% include floating/image_center src="https://i.imgur.com/iZ7Vwfk.png" description="Screenshot of <i>Hyrule Warriors: Definitive Edition</i>" %}
 
 ## New Expressive Weapon Options
 
@@ -80,7 +80,7 @@ While not all possible Instruments are represented above, you can use the guidel
 **Trait requirement**: Smithing 3  
 **Effect**: You may choose to use this whenever crafting a weapon. The weapon costs 1 more Material and has 1 greater Attack Power. This weapon is also Expressive.
 
-{% include floating/image_center src="https://i.imgur.com/NnKbfyP.png" description="Screenshot of Hyrule Warriors: Definitive Edition" %}
+{% include floating/image_center src="https://i.imgur.com/NnKbfyP.png" description="Screenshot of <i>Hyrule Warriors: Definitive Edition</i>" %}
 
 ## Quest Hooks
 
