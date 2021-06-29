@@ -44,7 +44,7 @@ Check out the new Races, Items, and Miniboss, below!
 
 ## Skull Kid
 
-{% include floating/image_center src="https://i.imgur.com/HzKIfx0.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/HzKIfx0.png" artist="Nintendo" custom_width="50" %}
 
 Average Height: 3′ 6″ – 5′  
 Average Weight: 20 – 40 lbs.  
@@ -86,7 +86,7 @@ A mask may not be worn if the face of the user is already covered.
 
 ## Minish
 
-{% include floating/image_center src="https://i.imgur.com/2799JJi.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/2799JJi.png" artist="Nintendo" custom_width="50" %}
 
 Average Height: 2″ – 6″  
 Average Weight: 0 – 1 lbs.  
@@ -112,7 +112,7 @@ Play a Minish if you want…
 
 ### New Item: Kinstone
 
-{% include floating/image_center src="https://i.imgur.com/rV7pchq.png" artist="Nintendo" %}
+{% include floating/image_center src="https://i.imgur.com/rV7pchq.png" artist="Nintendo" custom_width="40" %}
 
 *Material*
 
