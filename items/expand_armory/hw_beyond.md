@@ -44,19 +44,19 @@ Originally posted on the official website on [May 1st, 2020](https://reclaimthew
 | Weapon                      | ACC | ATK | DUR | Edge                 | Hands | Type   | Keywords                                          |
 |-----------------------------|-----|-----|-----|----------------------|-------|--------|---------------------------------------------------|
 | Boots<sup>1</sup>           | 5   | +0  | -1  | Varies<sup>2</sup>   | 2     | Melee  | Hands-Free,<br>Sweeping                           |
-| Giant Boomerang<sup>3</sup> | 4   | +0  | 0   | Sharp                | 2     | Melee  | Returning,<br>Sweeping                            |
-| Handgun                     | 3   | +1  | 0   | Percing<sup>4</sup>  | 1     | Ranged |                                                   |
+| Giant Boomerang<sup>3</sup> | 4   | +0  | +0  | Sharp                | 2     | Melee  | Returning,<br>Sweeping                            |
+| Handgun                     | 3   | +1  | +0  | Percing<sup>4</sup>  | 1     | Ranged |                                                   |
 | Long Gun                    | 4   | +2  | -1  | Piercing<sup>4</sup> | 2     | Ranged |                                                   |
-| Naginata                    | 4   | +0  | 0   | Sharp                | 2     | Melee  | Long,<br>Sweeping                                 |
+| Naginata                    | 4   | +0  | +0  | Sharp                | 2     | Melee  | Long,<br>Sweeping                                 |
 | Parasol<sup>1</sup>         | 4   | -1  | -1  | Blunt                | 2     | Melee  | Defensive,<br>Long,<br>Sweeping                   |
 | Quarterstaff<sup>5</sup>    | 3   | -1  | +2  | Blunt                | 2     | Melee  | Long,<br>Sweeping                                 |
 | Ring<sup>1</sup>            | 5   | -2  | -2  | Varies<sup>2</sup>   | 1     | Arcane | Hands-Free,<br>Wizardly                           |
-| Shield, Sharpened           | 2   | -1  | 0   | Sharp                | 1     | Melee  | Defensive                                         |
+| Shield, Sharpened           | 2   | -1  | +0  | Sharp                | 1     | Melee  | Defensive                                         |
 | Shield, Spiked              | 3   | -1  | -1  | Piercing             | 1     | Melee  | Defensive                                         |
 | Slingshot                   | 3   | -1  | +3  | Blunt<sup>4</sup>    | 2     | Ranged |                                                   |
 | Spellbook                   | 3   | -1  | +1  | Sharp                | 1     | Arcane | Wizardly                                          |
 | Summoning Gate              | 3   | +0  | -3  | Varies<sup>2</sup>   | 2     | Arcane | Hands-Free,<br>Summoning<sup>6</sup>,<br>Wizardly |
-| Sword-chucks                | 3   | +0  | 0   | Sharp                | 2     | Melee  | [Extending]({{ "/items/expand_armory/extending" | absolute_url }}),<br>Returning,<br>Sweeping              |
+| Sword-chucks                | 3   | +0  | +0  | Sharp                | 2     | Melee  | [Extending]({{ "/items/expand_armory/extending" | absolute_url }}),<br>Returning,<br>Sweeping              |
 | Throwing Glove<sup>1</sup>  | 5   | -2  | -1  | Varies<sup>2,4</sup> | 1     | Ranged | Hands-Free                                        |
 {: .small-numbers-table}
 
