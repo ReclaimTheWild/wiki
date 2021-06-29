@@ -7,6 +7,7 @@ parent: Items
 tags:
     - item
     - food
+    - gm-advice
     - official-article
 contributors:
     - elementalknight

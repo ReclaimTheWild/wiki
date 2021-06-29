@@ -7,6 +7,7 @@ parent: Items
 tags:
     - item
     - magical-tool
+    - gm-advice
     - official-article
 contributors:
     - nintaku
