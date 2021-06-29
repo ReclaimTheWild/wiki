@@ -112,7 +112,7 @@ Play a Minish if you want…
 
 ### New Item: Kinstone
 
-{% include floating/image_center src="https://i.imgur.com/rV7pchq.png" artist="Nintendo" custom_width="40" %}
+{% include floating/image_center src="https://i.imgur.com/rV7pchq.png" artist="Nintendo" custom_width="30" %}
 
 *Material*
 
