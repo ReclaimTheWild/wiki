@@ -15,7 +15,7 @@ contributors:
 
 Originally posted on the official website on [February 14th, 2020](https://reclaimthewild.net/index.php/2020/02/14/recruit-the-wild-loftwing/)
 
-# Recruit the Wild: Loftwing {% include labels/v2-01 %}
+# Recruit the Wild: Loftwing {% include labels/v2-03 %}
 {: .no_toc }
 
 <details open markdown="block">
@@ -188,13 +188,13 @@ Below you will find some options to progress a Loftwing Companion, or for GMs to
 
 *6 tokens*  
 **Trait requirement: Loftwing**  
-**Effect**: You are capable of digging through solid earth with your bill. You may treat an empty hand as if it had a Shovel of Rank (Fortitude / 2). If your use would break a normal Shovel, you cannot dig until you take an Extended Rest.
+**Effect**: You are capable of digging through solid earth with your bill. You may treat an empty hand as if it had a Shovel of Rank (base Fortitude / 2). If your use would break a normal Shovel, you cannot dig until you take an Extended Rest.
 
 ### New Feat: Molter
 
 *6 tokens*  
 **Trait requirement**: Loftwing  
-**Effect**: Your feathers molt on occasion. Every Extended Rest, you may make up to (Discipline / 3) units of Cloth, of up to Rank (Fortitude / 3).
+**Effect**: Your feathers molt on occasion. Every Extended Rest, you may make up to (base Discipline / 3) units of Cloth, of up to Rank (base Fortitude / 3).
 
 ### New Feat: Night Flyer
 
@@ -209,7 +209,7 @@ Below you will find some options to progress a Loftwing Companion, or for GMs to
 **Use requirement**: Flying  
 **Cost**: 8 Stamina  
 **Damage**: Combat, ignores Defense  
-**Effect**: During this attack, you may use your remaining Movement as normal, but can only move in a straight line. You may move through foes, dealing damage as you do so. If you try to move through a non-swarm foe that is larger or larger, roll To-Hit versus Vitality. On a success, you deal damage again; otherwise, the foe is only damaged once. This attack cannot be performed if you are Halted or Slowed.
+**Effect**: During this attack, you may use your remaining Movement as normal, but can only move in a straight line. You may move through foes, dealing damage as you do so. If you try to move through a non-swarm foe that is Large or larger, roll To-Hit versus Vitality. On a success, you deal damage again; otherwise, the foe is only damaged once. This attack cannot be performed if you are Halted or Slowed.
 
 ### New Technique: Spiral Charge
 
@@ -242,3 +242,9 @@ A Knight Academy student’s Loftwing has gone missing! Given the importance of 
 
 5 July 2020:
 * Clarified that the Saddle provides a bonus to the Guard stats of the Mount rider. Added in text to specify that non-Hands-Free items held in the Hands are placed away when the Sailcloth is deployed.
+
+23 March 2021:
+* Changed “larger or larger” to “Large or larger” for the Bill Drill technique.
+
+20 June 2021:
+* Changed the text for Burrowing Bill and Molter to specify the use of a base Trait.

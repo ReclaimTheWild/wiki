@@ -16,7 +16,7 @@ contributors:
 
 Originally posted on the official website on [October 15th, 2019](https://reclaimthewild.net/index.php/2019/10/15/new-item-witchs-broom/)
 
-# Witch's Broom {% include labels/v2-01 %}
+# Witch's Broom {% include labels/v2-03 %}
 {: .no_toc }
 
 <details open markdown="block">
@@ -62,11 +62,15 @@ Heroes may place Brooms in their Pack, in the Tools pouch. If left unattended, a
 
 Riding a Broom is much like riding a Companion. All rules that apply to Mounted Combat apply to fighting while on Broom-back, as well. (This means you can’t cast Spells while on your Broom, unless you also pick up the “Dragoon” Feat!)
 
-Brooms can also be harmed in the thick of combat, or by cruel foes who would try to break an unattended Broom over their knee. Brooms have ((Rank + 1) x 10) HP, and a Defense of (Rank x 2). They do not have a Concentration, Evasion, or Vitality of their own; while being piloted, they use their Rider’s Concentration, Evasion, and Vitality.
+Brooms can also be harmed in the thick of combat, or by cruel foes who would try to break an unattended Broom over their knee. Brooms have ((Rank + 1) x 4) Durability. Brooms do not have Guard Stats of their own; while being piloted, they use their Rider’s Guard Stats (Concentration, Evasion, and Vitality).
+
+Whenever a Broom sustains damage during combat, it loses 1 Durability. Brooms, being made of Wood, are Vulnerable to Fire; if a Broom is struck by Fire damage, it instead loses 2 Durability (and if set On Fire, it loses 2 Durability at the start of your turn).
+
+Unlike the Master Cycle, Brooms do *not* lose Durability from being used as a means of transportation. Brooms can also be safely used for sweeping and general cleaning purposes, of course, without harming their Durability. However, any use besides that (excepting any use that directly stems from the Broom's Personal Touches, below) *will* consume one unit of the Broom's Durability.
 
 ### Repairing Brooms
 
-If a Broom is damaged, you can repair it, so long as it hasn’t reached 0 HP. During a Short or Extended Rest, you may consume one Gem, Monster Part, Cloth, or Wood, restoring 1 HP per (Material’s Rank). The exception to this is Gems, which restore (Material’s Rank x 4) HP. You may only consume one item per Rest this way.
+If a Broom is damaged, you can repair it, so long as it hasn’t reached 0 Durability. During a Short or Extended Rest, you may consume one Monster Part, Cloth, or Wood, restoring (Material’s Rank + 1) Durability. You can also use a Gem, which restores ((Material’s Rank + 1) x 4) Durability. You may only consume one item per Rest this way.
 
 ## Crafting a Broom
 
@@ -99,7 +103,9 @@ Upgrading a Broom is mechanically the same as creating a new Broom, and deconstr
 
 ### Personal Touches
 
-When you craft a Broom, you also decide on its Personal Touches, much like when you build a Castle using the rules found in Rebuild the Wild. Brooms may have up to (Rank) many Personal Touches. Each Personal Touch may only be taken once, unless otherwise stated.
+When you craft a Broom, you also decide on its Personal Touches, much like when you build a Castle using the rules found in *Rebuild the Wild*. Brooms may have up to (Rank) many Personal Touches. Each Personal Touch may only be taken once, unless otherwise stated.
+
+When you upgrade a Broom, you may change any existing Personal Touches it had, in addition to adding new Personal TOuches based on its Rank.
 
 Below are just a handful of the Personal Touches your Broom might have – but don’t be afraid to discuss your own ideas for Personal Touches with your GM!
 
@@ -107,7 +113,7 @@ Below are just a handful of the Personal Touches your Broom might have – but d
 
 * **Clean Sweep**: During an Extended Rest, you may take a few minutes to use your Broom as an actual cleaning instrument, sweeping up your immediate surroundings. This produces a single Critter, based on the terrain you’re in, of a Rank up to (the Broom’s Rank). This does not prevent you from seeking out or harvesting other Materials during that Extended Rest.
 
-* **Cupholders**: Your Broom has (Rank / 2) cupholders, or other small containers that can easily be accessed while riding on your Broom. Treat these as Hip slots, accessible to any person(s) currently riding the Broom or otherwise adjacent to it.
+* **Cupholders**: Your Broom has (Rank / 2) cupholders, or other small containers that can easily be accessed while riding on your Broom. Treat these as Belt slots, accessible to any person(s) currently riding the Broom or otherwise adjacent to it.
 
 * **Enchanted, Dark**: As a Minor action, this Broom’s rider may command it to exude acrid black smoke from its bristles, covering the squares it traverses for the remainder of the turn. Perception checks made through the smoke take a (Rank) penalty, and light sources within the smoke have their Rank (or radius) reduced by (Rank).
 
@@ -127,7 +133,7 @@ Below are just a handful of the Personal Touches your Broom might have – but d
 
 ## Brooms and Master Mode
 
-Brooms, as a kind of unique vehicle, invite a certain level of complexity. By default, much of this complexity is pushed aside in the name of simple fun, as is the general style of Reclaim the Wild. However, if you wish to see Brooms be harder to pilot without practice, less maneuverable than a person on the ground, or even unrepairable at all, then read on.
+Brooms, as a kind of unique vehicle, invite a certain level of complexity. By default, much of this complexity is pushed aside in the name of simple fun, as is the general style of *Reclaim the Wild*. However, if you wish to see Brooms be harder to pilot without practice, less maneuverable than a person on the ground, or even unrepairable at all, then read on.
 
 ### Unpracticed Pilot Penalty
 
@@ -135,9 +141,9 @@ You may wish for Broom-riding to be limited solely to Witches, something that mo
 
 For inexperienced Witches, Brooms can be a bit difficult to control, which can lead to them bumping into things, or even falling off their Broom. This is known as the **Unpracticed Pilot Penalty**: If the Broom’s pilot does not possess the Broomcraft feat (above), then at the end of their turn, they must roll as if they were on either a Slightly Slick surface (if they used half or less of the Broom’s Movement) or a Severely Slick surface (if they used more than half of the Broom’s Movement). This roll occurs even if the Broom’s pilot would otherwise be immune to Slick surfaces.
 
-### Turning Radius
+### Master Mode: Vehicular Movement
 
-You may wish Brooms, being something like a vehicle, to have an additional issue that Companions do not: a turning radius. With this Master Mode rule, Brooms may be faster than most creatures on the ground, but they are also less maneuverable.
+You may wish to treat Broom-riding more like riding a vehicle than like riding a mount. Perhaps you'd like to see Brooms have maneuverability concerns that companion mounts do not typically suffer from, such as difficulty making sharp turns while moving at full speed. With this Master Mode rule, Heroes riding Brooms will be less maneuverable than Heroes riding more traditional mounts.
 
 While on a Broom:
 
@@ -149,9 +155,15 @@ While on a Broom:
 
 ### Irreparable Brooms
 
-As a Master Mode rule, your GM may disallow Broom repair. This brings Brooms into line with Weapons and most other equipment, which cannot be safely repaired unless inhabited by a Weapon Spirit.
+As a Master Mode rule, your GM may disallow Broom repair and upgrading. This brings Brooms into line with Weapons and most other equipment, which cannot be safely repaired unless inhabited by a Weapon Spirit.
 
 ## Changelog
 
 July 23, 2020:
 * Added information about upgrading Brooms.
+
+September 21, 2020:
+* Fixed a minor error where Belt slots were referred to as “Hip slots”.
+
+May 09, 2021:
+* Minor wording edit and header change, to clarify the purpose of the Master Mode rule for having a turning radius and such. Also, changed Brooms from having HP and Defense, to just having Durability, similar to the Master Cycle in the Core Rulebook.
