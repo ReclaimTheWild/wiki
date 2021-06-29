@@ -7,12 +7,12 @@ parent: Races
 tags:
     - race
     - item
-(    - weapon
+    - tool
     - feat
-    - spell
-    - technique
-    - status-effect
-    - crafting-style )
+    - crafting-style
+    - trait-smithing
+    - creature-miniboss
+    - creature-rank-1
     - official-article
 contributors:
     - elementalknight
