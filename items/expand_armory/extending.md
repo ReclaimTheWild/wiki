@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EYA: Extending Weapons"
+title: "Extending Weapons"
 summary:
 permalink: /items/expand_armory/extending
 parent: Expand Your Armory

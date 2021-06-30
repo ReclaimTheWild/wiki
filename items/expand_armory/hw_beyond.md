@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EYA: Hyrule Warriors and Beyond"
+title: "Hyrule Warriors and Beyond"
 summary:
 permalink: /items/expand_armory/hw_beyond
 parent: Expand Your Armory

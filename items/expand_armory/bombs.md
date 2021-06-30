@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "EYA: Bombs"
+title: "Bombs"
 summary:
 permalink: /items/expand_armory/bombs
 parent: Expand Your Armory
