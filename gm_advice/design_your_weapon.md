@@ -153,6 +153,7 @@ This system is intended to be used for homebrewing new Weapons, so here are some
 | Relic Cannon   | 2   | +3  | -2  | Blunt | 2     | Arcane & Ranged | Wizardly                                          |
 | Scyte          | 2   | +1  | -2  | Sharp | 2     | Arcane & Melee  | Sweeping, Wizardly                                |
 | Short Gunblade | 3   | +0  | -1  | Sharp | 1     | Melee & Ranged  |                                                   |
+{: .small-numbers-table}
 
 Here are break downs of the various weapons:
 
@@ -206,6 +207,7 @@ And here is an example of a weapon that probably *shouldn’t* be created or use
 | Weapon     | ACC | ATK | DUR | Edge | Hands | Type                   | Keywords                                                                         |
 |------------|-----|-----|-----|------|-------|------------------------|----------------------------------------------------------------------------------|
 | Omni-Glove | 1   | -5  | -5  | Any  | 1     | Arcane, Melee & Ranged | Defensive, Extending, Hands-Free, Long, Returning, Summoning, Sweeping, Wizardly |
+{: .small-numbers-table}
 
 Here is the point break-down:
 
@@ -368,6 +370,7 @@ Weapon Types provides access to basic attacks and certain keywords. Here is the 
 | 2H Melee  | (0 pt)     | Parry (1 pt) | Strike (1 pt) | Throw Weapon 2H (0 pt) | Sweeping (1 pt) | 3     |
 | 1H Ranged | (2 pt)     |              |               | Shoot Arrow 1H (2 pt)  |                 | 4     |
 | 2H Ranged | (0 pt)     |              |               | Shoot Arrow 2H (3 pt)  |                 | 3     |
+{: .small-numbers-table}
 
 This system does not take into account how good Spells or Techniques that require a certain type of weapon can be. This is because the weapons are balanced around the possibility of a person only using the Basic Attacks available to them. In addition, Spells and Techniques are numerous, variable, and have their own boons and drawbacks built in, so the general thought is to consider them all approximately equal as far as Weapon Types go. Finally, tokens are normally required to buy Spells and Techniques, so the benefits do not “count” toward the weapon budget.
 
