@@ -2,8 +2,8 @@
 layout: default
 title: Spells from Link to the Past and Smash Bros.
 summary:
-permalink: /spells/alttp_ssb
-parent: Spells
+permalink: /feats_spells_techniques/alttp_ssb
+parent: Feats, Spells, and Techniques
 tags:
     - spell
     - non-zelda-content

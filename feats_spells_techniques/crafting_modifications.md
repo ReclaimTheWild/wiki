@@ -2,8 +2,8 @@
 layout: default
 title: Crafting Modifications
 summary:
-permalink: /feats/crafting_modifications
-parent: Feats
+permalink: /feats_spells_techniques/crafting_modifications
+parent: Feats, Spells, and Techniques
 tags:
     - feat
     - weapon

@@ -2,8 +2,8 @@
 layout: default
 title: Savvy Combatant
 summary:
-permalink: /feats/savvy_combatant
-parent: Feats
+permalink: /feats_spells_techniques/savvy_combatant
+parent: Feats, Spells, and Techniques
 tags:
     - feat
     - maneuver

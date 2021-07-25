@@ -2,7 +2,7 @@
 layout: default
 title: Rebuild
 permalink: /rebuild
-nav_order: 11
+nav_order: 9
 has_children: true
 ---
 

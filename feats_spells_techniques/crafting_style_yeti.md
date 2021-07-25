@@ -2,8 +2,8 @@
 layout: default
 title: "Crafting-Style: Yeti"
 summary:
-permalink: /feats/crafting_style_yeti
-parent: Feats
+permalink: /feats_spells_techniques/crafting_style_yeti
+parent: Feats, Spells, and Techniques
 tags:
     - feat
     - crafting-style

@@ -2,8 +2,8 @@
 layout: default
 title: Zelda's Phantom
 summary:
-permalink: /spells/zelda_phantom
-parent: Spells
+permalink: /feats_spells_techniques/zelda_phantom
+parent: Feats, Spells, and Techniques
 tags:
     - spell
     - official-article

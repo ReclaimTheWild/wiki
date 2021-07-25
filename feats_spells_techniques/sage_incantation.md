@@ -2,8 +2,8 @@
 layout: default
 title: Sage's Incantation
 summary:
-permalink: /feats/sage_incantation
-parent: Feats
+permalink: /feats_spells_techniques/sage_incantation
+parent: Feats, Spells, and Techniques
 tags:
     - feat
     - trait-willpower

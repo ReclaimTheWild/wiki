@@ -2,8 +2,8 @@
 layout: default
 title: Skills from Sheik
 summary:
-permalink: /techniques/skills_sheik
-parent: Techniques
+permalink: /feats_spells_techniques/skills_sheik
+parent: Feats, Spells, and Techniques
 tags:
     - technique
     - official-article

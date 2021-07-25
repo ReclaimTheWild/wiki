@@ -2,8 +2,8 @@
 layout: default
 title: Defender Techniques
 summary:
-permalink: /techniques/defender_techniques
-parent: Techniques
+permalink: /feats_spells_techniques/defender_techniques
+parent: Feats, Spells, and Techniques
 tags:
     - technique
 contributors:

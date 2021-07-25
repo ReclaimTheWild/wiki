@@ -2,7 +2,7 @@
 layout: default
 title: Expansions
 permalink: /expansions
-nav_order: 14
+nav_order: 12
 has_children: true
 ---
 
