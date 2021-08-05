@@ -3,7 +3,7 @@ layout: default
 title: "Snow Zora"
 summary:
 permalink: /races/snacks_subspecies/snow_zora
-parent: Snack's Subspecies
+parent: Snacks' Subspecies
 grand_parent: Races
 tags:
     - race

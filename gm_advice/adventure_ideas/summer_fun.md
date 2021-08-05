@@ -2,7 +2,7 @@
 layout: default
 title: "Summer Fun"
 summary:
-permalink: /gm_advice/adventure_ideas/granting_property
+permalink: /gm_advice/adventure_ideas/summer_fun
 parent: Adventure Ideas
 grand_parent: GM Advice
 tags:

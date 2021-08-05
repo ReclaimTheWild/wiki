@@ -3,7 +3,7 @@ layout: default
 title: "Metallic Goron"
 summary:
 permalink: /races/snacks_subspecies/metallic_goron
-parent: Snack's Subspecies
+parent: Snacks' Subspecies
 grand_parent: Races
 tags:
     - race

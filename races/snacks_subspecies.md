@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Snack's Subspecies
+title: Snacks' Subspecies
 summary:
-permalink: /races/snack_subspecies
+permalink: /races/snacks_subspecies
 parent: Races
 has_children: true
 contributors:
     - snacks
 ---
 
-# Snack's Subspecies
+# Snacks' Subspecies
 
 Some subspecies based on the original races, drastically changing their playstyle and lore.
 

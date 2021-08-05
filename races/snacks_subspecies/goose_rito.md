@@ -3,7 +3,7 @@ layout: default
 title: "Goose Rito"
 summary:
 permalink: /races/snacks_subspecies/goose_rito
-parent: Snack's Subspecies
+parent: Snacks' Subspecies
 grand_parent: Races
 tags:
     - race

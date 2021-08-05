@@ -3,7 +3,7 @@ layout: default
 title: "Phoenix Rito"
 summary:
 permalink: /races/snacks_subspecies/phoenix_rito
-parent: Snack's Subspecies
+parent: Snacks' Subspecies
 grand_parent: Races
 tags:
     - race
