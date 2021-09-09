@@ -138,7 +138,7 @@ Below are just a handful of the Personal Touches your Hookshot might have – bu
 
 * **Wings of Freedom**: You can use the *Wings of Freedom* Spell, using the same resource (Magic or Stamina) as with *Ravio’s Hookshot*, with the same benefits.
 
-* **Yank Closer**: You can use the *Yank Closer* Spell, using the same resource (Magic or Stamina) as with *Ravio’s Hookshot*, with the same benefits.
+* **Reel In**: You can use the *Reel In* Spell, using the same resource (Magic or Stamina) as with *Ravio’s Hookshot*, with the same benefits.
 
 ## Hookshots and Master Mode
 
