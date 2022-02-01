@@ -57,7 +57,7 @@ Hair colors: Depending on template Race
 * Choose Power Servant, Wisdom Servant, or Courage Servant. That choice is permanent. You gain additional racial bonuses depending on the chosen Aspect. You temporaily lose access to the racial bonuses of your chosen aspect, and Feats, Techniques and Spells that have Minor Deity as a requirement, whenever and as long as the sum of your Traits in either one of the non-chosen Aspects is higher than the sum of your Traits in the chosen Aspect.
     * If you are a Power Servant, you are a Natural Climber and gain "Eldin's Flames" for free. You may perform "Song of Awakening" and "Song of Soul" as if you have learned it and if you do, you may use Civilization for determining your Musical Power.
     * If you are a Wisdom Servant, you are a Natural Swimmer and gain "Faron's Tide" for free. You may perform "Song of Blooming" and "Song of Discovery" as if you have learned it and if you do, you may use Arcana for determining your Musical Power.
-    * If you are a Courage Servant, you can glide under your own power and gain "Lanaryu's Storm" for free. You may perform "Song of Birds" and "Wind's Requiem (Minor only)" as if you have learned it and if you do, you may use Nature for determining your Musical Power.
+    * If you are a Courage Servant, you can glide under your own power, but you are not a Natural Glider, and gain "Lanaryu's Storm" for free. You may perform "Song of Birds" and "Wind's Requiem (Minor only)" as if you have learned it and if you do, you may use Nature for determining your Musical Power. Note: If your chosen race is a non-Natural Glider, for example Fairies, you may become a Natural Glider if your GM allows it.
 
 **Description**
 
